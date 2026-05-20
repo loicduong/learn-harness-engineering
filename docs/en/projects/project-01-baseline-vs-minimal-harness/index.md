@@ -26,12 +26,12 @@ Minimal harness: `AGENTS.md` + `init.sh` + `feature_list.json`
 
 ## Use the Checked-In Project
 
-Repository path: `projects/project-01/`
+Repository path: [`projects/project-01/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01)
 
 | Directory | What it contains | How to use it |
 |------|------|------|
-| `starter/` | The weak-harness run. It has only `task-prompt.md` as the task description and no `AGENTS.md` or `feature_list.json`. | Give the prompt to your coding agent and measure what it completes without extra structure. |
-| `solution/` | The same product slice with explicit harness artifacts: `AGENTS.md`, `CLAUDE.md`, `init.sh`, `feature_list.json`, and `claude-progress.md`. | Compare how the same task is made concrete through rules and verification evidence. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/starter) | The weak-harness run. It has only [`task-prompt.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) as the task description and no `AGENTS.md` or `feature_list.json`. | Give the prompt to your coding agent and measure what it completes without extra structure. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/solution) | The same product slice with explicit harness artifacts: [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/feature_list.json), and [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | Compare how the same task is made concrete through rules and verification evidence. |
 
 The four concrete features are window launch, document list, question panel, and
 local data directory creation. Inspect `solution/feature_list.json` for the

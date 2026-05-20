@@ -13,12 +13,12 @@ Siz buni ikki marta bajarasiz: birinchisida hech qanday cheklovlarsiz, ikkinchis
 
 ## Repodagi tayyor loyihadan foydalaning
 
-Repo yoʻli: `projects/project-03/`
+Repo yoʻli: [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | Katalog | Nimalar bor | Nimani taqqoslash |
 |------|------|------|
-| `starter/` | Project 02 kodi, indexing va citation-based Q&A hali tugallanmagan. Boshlangʻich `feature_list.json` bor, lekin yakuniy handoff/restart artefaktlari yoʻq. | Agent bir nechta feature orasida chalgʻiydimi yoki restartdan keyin holatni yoʻqotadimi. |
-| `solution/` | Chunking, metadata, index status va citation-based Q&A tugallangan; `init.sh`, `session-handoff.md`, `claude-progress.md`, `clean-state-checklist.md` bor. | Har bir feature pass bo‘lishidan oldin aniq tekshiruv daliliga egami. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | Project 02 kodi, indexing va citation-based Q&A hali tugallanmagan. Boshlangʻich [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json) bor, lekin yakuniy handoff/restart artefaktlari yoʻq. | Agent bir nechta feature orasida chalgʻiydimi yoki restartdan keyin holatni yoʻqotadimi. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | Chunking, metadata, index status va citation-based Q&A tugallangan; [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md) bor. | Har bir feature pass bo‘lishidan oldin aniq tekshiruv daliliga egami. |
 
 ## Vositalar
 

@@ -11,12 +11,12 @@
 
 ## 使用倉庫內建專案
 
-倉庫路徑：`projects/project-06/`
+倉庫路徑：[`projects/project-06/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06)
 
 | 目錄 | 內容 | 怎麼用 / 比較什麼 |
 |------|------|------|
-| `starter/` | 產品功能基本完整，但 harness 表面刻意削弱（只有基礎 `AGENTS.md`，沒有 `feature_list.json` / `session-handoff.md` / `clean-state-checklist.md`，也沒有 benchmark/cleanup 腳本）。 | 手動記錄弱 harness 基線行為（錯誤定位速度、是否過早宣告完成等）。 |
-| `solution/` | 最大化 harness：`AGENTS.md`、`CLAUDE.md`、`feature_list.json`、`init.sh`、`session-handoff.md`、`clean-state-checklist.md`、品質/評估文檔、benchmark 與 cleanup 腳本。 | 在 `projects/project-06/solution/` 下跑 `./scripts/benchmark.sh` 與 `./scripts/cleanup-scanner.sh`，再對照品質文檔證據。 |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/starter) | 產品功能基本完整，但 harness 表面刻意削弱（只有基礎 [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/starter/AGENTS.md)，沒有 `feature_list.json` / `session-handoff.md` / `clean-state-checklist.md`，也沒有 benchmark/cleanup 腳本）。 | 手動記錄弱 harness 基線行為（錯誤定位速度、是否過早宣告完成等）。 |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/solution) | 最大化 harness：[`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md)、[`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/feature_list.json)、[`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/init.sh)、[`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/session-handoff.md)、[`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md)、品質/評估文檔、benchmark 與 cleanup 腳本。 | 在 [`projects/project-06/solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/solution) 下跑 `./scripts/benchmark.sh` 與 `./scripts/cleanup-scanner.sh`，再對照品質文檔證據。 |
 
 ## 用什麼工具
 

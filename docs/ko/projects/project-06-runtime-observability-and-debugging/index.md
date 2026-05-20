@@ -15,12 +15,12 @@
 
 ## 저장소에 포함된 프로젝트 사용하기
 
-저장소 경로: `projects/project-06/`
+저장소 경로: [`projects/project-06/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06)
 
 | 디렉터리 | 내용 | 비교할 것 |
 |------|------|------|
-| `starter/` | 제품 기능은 거의 완성되어 있지만 harness 표면은 의도적으로 약합니다. 기본 `AGENTS.md`만 있고 `feature_list.json`, `session-handoff.md`, clean-state checklist, benchmark/cleanup scripts가 없습니다. | 약한 harness baseline의 수동 관찰. |
-| `solution/` | 완전한 harness: `AGENTS.md`, `CLAUDE.md`, `feature_list.json`, `init.sh`, `session-handoff.md`, `clean-state-checklist.md`, 품질/평가 문서와 scripts. | `projects/project-06/solution/scripts/benchmark.sh`와 `projects/project-06/solution/scripts/cleanup-scanner.sh`를 실행하고 품질 증거를 비교합니다. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/starter) | 제품 기능은 거의 완성되어 있지만 harness 표면은 의도적으로 약합니다. 기본 [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/starter/AGENTS.md)만 있고 `feature_list.json`, `session-handoff.md`, clean-state checklist, benchmark/cleanup scripts가 없습니다. | 약한 harness baseline의 수동 관찰. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/solution) | 완전한 harness: [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), 품질/평가 문서와 scripts. | [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh)와 [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh)를 실행하고 품질 증거를 비교합니다. |
 
 ## 도구
 

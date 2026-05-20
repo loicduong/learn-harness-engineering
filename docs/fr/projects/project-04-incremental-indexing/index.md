@@ -13,14 +13,14 @@ Vous l'exécutez deux fois : d'abord sans logs ni contraintes, puis avec les bon
 
 ## Utiliser le projet fourni
 
-Chemin dans le dépôt : `projects/project-04/`
+Chemin dans le dépôt : [`projects/project-04/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04)
 
 | Dossier | Contenu | À comparer |
 |------|------|------|
-| `starter/` | Code de Project 03 avec diagnostics faibles. Le défaut d'indexation intégré peut casser le chunking des gros fichiers, et il n'y a pas de script de contrôle d'architecture. | Le temps nécessaire pour trouver la cause sans signaux runtime. |
-| `solution/` | Logger structuré, documentation/script de frontières d'architecture, logique de chunking corrigée et `clean-state-checklist.md`. | Si les logs et contrôles rendent la correction plus rapide et moins invasive. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/starter) | Code de Project 03 avec diagnostics faibles. Le défaut d'indexation intégré peut casser le chunking des gros fichiers, et il n'y a pas de script de contrôle d'architecture. | Le temps nécessaire pour trouver la cause sans signaux runtime. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/solution) | Logger structuré, documentation/script de frontières d'architecture, logique de chunking corrigée et [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md). | Si les logs et contrôles rendent la correction plus rapide et moins invasive. |
 
-Fichiers clés : `projects/project-04/solution/src/services/logger.ts`, `projects/project-04/solution/scripts/check-architecture.sh`, `projects/project-04/solution/docs/ARCHITECTURE.md`, `projects/project-04/solution/src/services/indexing-service.ts`.
+Fichiers clés : [`projects/project-04/solution/src/services/logger.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md), [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts).
 
 ## Outils
 

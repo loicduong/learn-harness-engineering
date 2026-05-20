@@ -13,14 +13,14 @@
 
 ## استخدم المشروع الموجود في المستودع
 
-مسار المستودع: `projects/project-05/`
+مسار المستودع: [`projects/project-05/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05)
 
 | المجلد | ماذا يحتوي | ماذا تقارن |
 |------|------|------|
-| `starter/` | تطبيق مبني على Project 04 قبل ترقية سجل المحادثة. | نقطة البداية إذا أردت إعادة تشغيل المتغيرات الثلاثة. |
-| `solution/single-role/` | وكيل واحد يخطط وينفذ ويقيّم نفسه. | الدرجة والعيوب في `evaluator-rubric.md`. |
-| `solution/gen-eval/` | generator + evaluator مع دليل مراجعة. | الدرجة وملاحظات revision في `evaluator-rubric.md`. |
-| `solution/plan-gen-eval/` | planner + generator + evaluator مع sprint contract. | `sprint-contract.md` ودليل الدرجة الأعلى في `evaluator-rubric.md`. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/starter) | تطبيق مبني على Project 04 قبل ترقية سجل المحادثة. | نقطة البداية إذا أردت إعادة تشغيل المتغيرات الثلاثة. |
+| [`solution/single-role/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/single-role) | وكيل واحد يخطط وينفذ ويقيّم نفسه. | الدرجة والعيوب في [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md). |
+| [`solution/gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator مع دليل مراجعة. | الدرجة وملاحظات revision في [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md). |
+| [`solution/plan-gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator مع sprint contract. | [`sprint-contract.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) ودليل الدرجة الأعلى في [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md). |
 
 ## الأدوات
 

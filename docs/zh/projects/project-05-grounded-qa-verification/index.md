@@ -13,14 +13,14 @@
 
 ## 使用仓库里的项目
 
-仓库路径：`projects/project-05/`
+仓库路径：[`projects/project-05/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05)
 
 | 目录 | 里面有什么 | 比较什么 |
 |------|------|------|
-| `starter/` | ConversationHistory 升级前的 Project 04 应用。 | 如果要自己重跑三种变体，从这里开始。 |
-| `solution/single-role/` | 一个 agent 规划、实现、自评。 | `evaluator-rubric.md` 评分 1.6/5 和缺陷列表。 |
-| `solution/gen-eval/` | 生成者 + 评估者，有修订证据。 | `evaluator-rubric.md` 评分 3.3/5 和修订记录。 |
-| `solution/plan-gen-eval/` | 规划者 + 生成者 + 评估者。 | `sprint-contract.md`、`evaluator-rubric.md` 评分 4.9/5。 |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/starter) | ConversationHistory 升级前的 Project 04 应用。 | 如果要自己重跑三种变体，从这里开始。 |
+| [`solution/single-role/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/single-role) | 一个 agent 规划、实现、自评。 | [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) 评分 1.6/5 和缺陷列表。 |
+| [`solution/gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/gen-eval) | 生成者 + 评估者，有修订证据。 | [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) 评分 3.3/5 和修订记录。 |
+| [`solution/plan-gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | 规划者 + 生成者 + 评估者。 | [`sprint-contract.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md)、[`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) 评分 4.9/5。 |
 
 已提交的固定功能是多轮问答历史。重跑时保持功能不变，唯一变量是角色分工。
 

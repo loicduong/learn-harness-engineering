@@ -13,12 +13,12 @@
 
 ## 使用仓库里的项目
 
-仓库路径：`projects/project-01/`
+仓库路径：[`projects/project-01/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01)
 
 | 目录 | 里面有什么 | 怎么用 |
 |------|------|------|
-| `starter/` | 弱 harness 版本，只有 `task-prompt.md`，没有 `AGENTS.md` 或 `feature_list.json`。 | 把 prompt 给 coding agent，测量它在没有额外结构时完成了什么。 |
-| `solution/` | 同一个产品切片，加上 `AGENTS.md`、`CLAUDE.md`、`init.sh`、`feature_list.json`、`claude-progress.md`。 | 对照规则和验证证据如何把同一任务具体化。 |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/starter) | 弱 harness 版本，只有 [`task-prompt.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/starter/task-prompt.md)，没有 `AGENTS.md` 或 `feature_list.json`。 | 把 prompt 给 coding agent，测量它在没有额外结构时完成了什么。 |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/solution) | 同一个产品切片，加上 [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md)、[`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/init.sh)、[`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/feature_list.json)、[`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/claude-progress.md)。 | 对照规则和验证证据如何把同一任务具体化。 |
 
 四个具体功能是窗口启动、文档列表、问答面板、本地数据目录。预期证据见 `solution/feature_list.json`。
 

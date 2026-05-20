@@ -13,12 +13,12 @@ Utilisez un ensemble fixe de tâches multi-fonctionnalités couvrant une tranche
 
 ## Utiliser le projet fourni
 
-Chemin dans le dépôt : `projects/project-06/`
+Chemin dans le dépôt : [`projects/project-06/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06)
 
 | Dossier | Contenu | À comparer |
 |------|------|------|
-| `starter/` | Produit presque complet, mais surface de harness affaiblie : `AGENTS.md` de base, pas de `feature_list.json`, `session-handoff.md`, checklist clean-state ni scripts benchmark/cleanup. | Observations manuelles de la baseline à harness faible. |
-| `solution/` | Harness complet : `AGENTS.md`, `CLAUDE.md`, `feature_list.json`, `init.sh`, `session-handoff.md`, `clean-state-checklist.md`, documents qualité/évaluation et scripts. | Exécuter `projects/project-06/solution/scripts/benchmark.sh` et `projects/project-06/solution/scripts/cleanup-scanner.sh`, puis comparer les preuves qualité. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/starter) | Produit presque complet, mais surface de harness affaiblie : [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/starter/AGENTS.md) de base, pas de `feature_list.json`, `session-handoff.md`, checklist clean-state ni scripts benchmark/cleanup. | Observations manuelles de la baseline à harness faible. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/solution) | Harness complet : [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), documents qualité/évaluation et scripts. | Exécuter [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh) et [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh), puis comparer les preuves qualité. |
 
 ## Outils
 

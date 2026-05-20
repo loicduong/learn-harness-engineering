@@ -15,12 +15,12 @@
 
 ## 저장소에 포함된 프로젝트 사용하기
 
-저장소 경로: `projects/project-03/`
+저장소 경로: [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | 디렉터리 | 내용 | 비교할 것 |
 |------|------|------|
-| `starter/` | Project 02 코드에서 indexing과 citation 기반 Q&A가 아직 미완성입니다. 초기 `feature_list.json`은 있지만 최종 handoff/restart 산출물은 없습니다. | 여러 기능 사이에서 에이전트가 drift하거나 재시작 후 상태를 잃는지. |
-| `solution/` | chunking, metadata, index status, citation-based QA가 완성되어 있고 `init.sh`, `session-handoff.md`, `claude-progress.md`, `clean-state-checklist.md`가 있습니다. | 각 기능이 pass로 표시되기 전에 구체적 검증 증거가 있는지. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | Project 02 코드에서 indexing과 citation 기반 Q&A가 아직 미완성입니다. 초기 [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json)은 있지만 최종 handoff/restart 산출물은 없습니다. | 여러 기능 사이에서 에이전트가 drift하거나 재시작 후 상태를 잃는지. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | chunking, metadata, index status, citation-based QA가 완성되어 있고 [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md)가 있습니다. | 각 기능이 pass로 표시되기 전에 구체적 검증 증거가 있는지. |
 
 ## 도구
 

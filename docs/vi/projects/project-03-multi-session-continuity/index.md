@@ -13,12 +13,12 @@ Bạn chạy hai lần: lần đầu không có ràng buộc, lần hai với th
 
 ## Dùng project có sẵn trong repo
 
-Đường dẫn repo: `projects/project-03/`
+Đường dẫn repo: [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | Thư mục | Nội dung | So sánh gì |
 |------|------|------|
-| `starter/` | Code Project 02 với indexing và Q&A có citation vẫn chưa hoàn chỉnh. Có `feature_list.json` ban đầu nhưng chưa có artefact handoff/restart cuối cùng. | Agent có drift qua nhiều tính năng hoặc mất trạng thái sau restart không. |
-| `solution/` | Chunking, metadata, index status và citation-based QA đã hoàn thành, thêm `init.sh`, `session-handoff.md`, `claude-progress.md`, `clean-state-checklist.md`. | Mỗi tính năng có bằng chứng kiểm chứng trước khi đánh dấu pass không. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | Code Project 02 với indexing và Q&A có citation vẫn chưa hoàn chỉnh. Có [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json) ban đầu nhưng chưa có artefact handoff/restart cuối cùng. | Agent có drift qua nhiều tính năng hoặc mất trạng thái sau restart không. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | Chunking, metadata, index status và citation-based QA đã hoàn thành, thêm [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md). | Mỗi tính năng có bằng chứng kiểm chứng trước khi đánh dấu pass không. |
 
 ## Công cụ
 

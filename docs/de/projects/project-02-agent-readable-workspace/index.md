@@ -13,12 +13,12 @@ Du führst es zweimal aus: zuerst ohne Hilfe, dann mit bereits abgelegten `ARCHI
 
 ## Nutze das eingecheckte Projekt
 
-Repository-Pfad: `projects/project-02/`
+Repository-Pfad: [`projects/project-02/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02)
 
 | Verzeichnis | Inhalt | Vergleichspunkt |
 |------|------|------|
-| `starter/` | Code aus Project 01 mit noch unvollständigem Import, Detailansicht und Persistenz. Die Dokumentation ist vorhanden, aber dünner, und `session-handoff.md` fehlt. | Wie viel Kontext eine zweite Agent-Sitzung erneut herausfinden muss. |
-| `solution/` | Derselbe Produktschnitt ist fertig, mit Übergabedokumentation unter `projects/project-02/solution/` sowie `feature_list.json` und `session-handoff.md`. | Ob eine neue Sitzung nur aus dem Repository-Zustand weiterarbeiten kann. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/starter) | Code aus Project 01 mit noch unvollständigem Import, Detailansicht und Persistenz. Die Dokumentation ist vorhanden, aber dünner, und `session-handoff.md` fehlt. | Wie viel Kontext eine zweite Agent-Sitzung erneut herausfinden muss. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) | Derselbe Produktschnitt ist fertig, mit Übergabedokumentation unter [`projects/project-02/solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) sowie [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/feature_list.json) und [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | Ob eine neue Sitzung nur aus dem Repository-Zustand weiterarbeiten kann. |
 
 Die Produktfunktionen sind Dokumentimport, vollständiges Laden von Details/Inhalt und Persistenz nach Neustart. Die Harness-Funktion ist ein gut übergebbarer Workspace.
 

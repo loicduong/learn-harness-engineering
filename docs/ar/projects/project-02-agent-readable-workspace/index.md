@@ -13,12 +13,12 @@
 
 ## استخدم المشروع الموجود في المستودع
 
-مسار المستودع: `projects/project-02/`
+مسار المستودع: [`projects/project-02/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02)
 
 | المجلد | ماذا يحتوي | ماذا تقارن |
 |------|------|------|
-| `starter/` | كود Project 01 مع import المستندات، عرض التفاصيل، و persistence غير مكتملة بعد. توجد وثائق لكنها أخف، ولا يوجد `session-handoff.md`. | مقدار السياق الذي تحتاج الجلسة الثانية من الوكيل إلى اكتشافه من جديد. |
-| `solution/` | نفس جزء المنتج مكتمل، مع وثائق handoff تحت `projects/project-02/solution/`، بالإضافة إلى `feature_list.json` و `session-handoff.md`. | هل تستطيع جلسة جديدة المتابعة اعتمادًا على حالة المستودع فقط. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/starter) | كود Project 01 مع import المستندات، عرض التفاصيل، و persistence غير مكتملة بعد. توجد وثائق لكنها أخف، ولا يوجد `session-handoff.md`. | مقدار السياق الذي تحتاج الجلسة الثانية من الوكيل إلى اكتشافه من جديد. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) | نفس جزء المنتج مكتمل، مع وثائق handoff تحت [`projects/project-02/solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution)، بالإضافة إلى [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/feature_list.json) و [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | هل تستطيع جلسة جديدة المتابعة اعتمادًا على حالة المستودع فقط. |
 
 ## الأدوات
 

@@ -13,12 +13,12 @@
 
 ## استخدم المشروع الموجود في المستودع
 
-مسار المستودع: `projects/project-06/`
+مسار المستودع: [`projects/project-06/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06)
 
 | المجلد | ماذا يحتوي | ماذا تقارن |
 |------|------|------|
-| `starter/` | المنتج شبه مكتمل، لكن سطح harness ضعيف عمدًا: يوجد `AGENTS.md` أساسي فقط، ولا يوجد `feature_list.json` أو `session-handoff.md` أو clean-state checklist أو benchmark/cleanup scripts. | ملاحظات يدوية لخط baseline مع harness ضعيف. |
-| `solution/` | harness كامل: `AGENTS.md`, `CLAUDE.md`, `feature_list.json`, `init.sh`, `session-handoff.md`, `clean-state-checklist.md`, quality/evaluator docs و scripts. | شغّل `projects/project-06/solution/scripts/benchmark.sh` و `projects/project-06/solution/scripts/cleanup-scanner.sh` ثم قارن أدلة الجودة. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/starter) | المنتج شبه مكتمل، لكن سطح harness ضعيف عمدًا: يوجد [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/starter/AGENTS.md) أساسي فقط، ولا يوجد `feature_list.json` أو `session-handoff.md` أو clean-state checklist أو benchmark/cleanup scripts. | ملاحظات يدوية لخط baseline مع harness ضعيف. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/solution) | harness كامل: [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), quality/evaluator docs و scripts. | شغّل [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh) و [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh) ثم قارن أدلة الجودة. |
 
 ## الأدوات
 

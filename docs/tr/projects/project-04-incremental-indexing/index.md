@@ -15,14 +15,14 @@ Depodaki starter'da runtime bug'ı kasıtlı olarak bırakılmıştır; fakat ta
 
 ## Depodaki projeyi kullanın
 
-Depo yolu: `projects/project-04/`
+Depo yolu: [`projects/project-04/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04)
 
 | Dizin | İçerik | Nasıl kullanılır |
 |------|------|------|
-| `starter/` | Project 03 kodu; tanılama sinyali zayıftır. Gömülü indexing hatası büyük dosya parçalamayı bozar ve mimari kontrol betiği yoktur. | Runtime sinyali yokken agent'ın kök nedeni ne kadar sürede bulduğunu ölçün. |
-| `solution/` | Yapılandırılmış logger, mimari sınır dokümanı ve betiği, düzeltilmiş parçalama mantığı ve `clean-state-checklist.md`. | Logların ve sınır kontrollerinin düzeltmeyi hızlandırıp daha az yan etki üretip üretmediğini kontrol edin. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/starter) | Project 03 kodu; tanılama sinyali zayıftır. Gömülü indexing hatası büyük dosya parçalamayı bozar ve mimari kontrol betiği yoktur. | Runtime sinyali yokken agent'ın kök nedeni ne kadar sürede bulduğunu ölçün. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/solution) | Yapılandırılmış logger, mimari sınır dokümanı ve betiği, düzeltilmiş parçalama mantığı ve [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md). | Logların ve sınır kontrollerinin düzeltmeyi hızlandırıp daha az yan etki üretip üretmediğini kontrol edin. |
 
-Özellikle `projects/project-04/solution/src/services/logger.ts`, `projects/project-04/solution/scripts/check-architecture.sh`, `projects/project-04/solution/docs/ARCHITECTURE.md` ve `projects/project-04/solution/src/services/indexing-service.ts` dosyalarına bakın.
+Özellikle [`projects/project-04/solution/src/services/logger.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md) ve [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts) dosyalarına bakın.
 
 ## Araçlar
 

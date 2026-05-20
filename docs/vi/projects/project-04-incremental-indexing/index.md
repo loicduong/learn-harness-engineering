@@ -13,14 +13,14 @@ Bạn chạy hai lần: lần đầu không có log hoặc ràng buộc, lần h
 
 ## Dùng project có sẵn trong repo
 
-Đường dẫn repo: `projects/project-04/`
+Đường dẫn repo: [`projects/project-04/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04)
 
 | Thư mục | Nội dung | So sánh gì |
 |------|------|------|
-| `starter/` | Code Project 03 với tín hiệu chẩn đoán yếu. Lỗi indexing được cài sẵn có thể làm hỏng chunking file lớn, và không có script kiểm tra kiến trúc. | Agent mất bao lâu để tìm root cause khi thiếu runtime signals. |
-| `solution/` | Structured logger, tài liệu/script ranh giới kiến trúc, logic chunking đã sửa và `clean-state-checklist.md`. | Logs và boundary checks có giúp sửa nhanh hơn, ít xâm lấn hơn không. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/starter) | Code Project 03 với tín hiệu chẩn đoán yếu. Lỗi indexing được cài sẵn có thể làm hỏng chunking file lớn, và không có script kiểm tra kiến trúc. | Agent mất bao lâu để tìm root cause khi thiếu runtime signals. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/solution) | Structured logger, tài liệu/script ranh giới kiến trúc, logic chunking đã sửa và [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md). | Logs và boundary checks có giúp sửa nhanh hơn, ít xâm lấn hơn không. |
 
-File cần xem: `projects/project-04/solution/src/services/logger.ts`, `projects/project-04/solution/scripts/check-architecture.sh`, `projects/project-04/solution/docs/ARCHITECTURE.md`, `projects/project-04/solution/src/services/indexing-service.ts`.
+File cần xem: [`projects/project-04/solution/src/services/logger.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md), [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts).
 
 ## Công cụ
 

@@ -23,14 +23,14 @@ Self-verification + grounded Q&A + evidence-based completion
 
 ## Use the Checked-In Project
 
-Repository path: `projects/project-05/`
+Repository path: [`projects/project-05/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05)
 
 | Directory | What it contains | What to compare |
 |------|------|------|
-| `starter/` | Project 04-based app before the conversation-history upgrade. | Starting point if you want to rerun the three variants yourself. |
-| `solution/single-role/` | One agent plans, implements, and self-reviews. | `evaluator-rubric.md` score 1.6/5 and listed defects. |
-| `solution/gen-eval/` | Generator plus evaluator with revision evidence. | `evaluator-rubric.md` score 3.3/5 and revision notes. |
-| `solution/plan-gen-eval/` | Planner plus generator plus evaluator. | `sprint-contract.md`, `evaluator-rubric.md` score 4.9/5. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/starter) | Project 04-based app before the conversation-history upgrade. | Starting point if you want to rerun the three variants yourself. |
+| [`solution/single-role/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/single-role) | One agent plans, implements, and self-reviews. | [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) score 1.6/5 and listed defects. |
+| [`solution/gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/gen-eval) | Generator plus evaluator with revision evidence. | [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) score 3.3/5 and revision notes. |
+| [`solution/plan-gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | Planner plus generator plus evaluator. | [`sprint-contract.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md), [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) score 4.9/5. |
 
 The checked-in feature is multi-turn Q&A conversation history. Keep that feature
 constant across all three variants so the only variable is role separation.

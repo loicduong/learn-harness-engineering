@@ -13,12 +13,12 @@ Lo ejecutarás dos veces: primero sin ayuda, y después con `ARCHITECTURE.md`, `
 
 ## Usa el proyecto incluido
 
-Ruta en el repositorio: `projects/project-02/`
+Ruta en el repositorio: [`projects/project-02/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02)
 
 | Directorio | Qué contiene | Qué comparar |
 |------|------|------|
-| `starter/` | Código de Project 01 con importación, vista de detalle y persistencia todavía incompletas. La documentación existe, pero es más ligera y no hay `session-handoff.md`. | Cuánto contexto tiene que redescubrir una segunda sesión del agente. |
-| `solution/` | La misma porción de producto ya completada, con documentación de handoff bajo `projects/project-02/solution/`, además de `feature_list.json` y `session-handoff.md`. | Si una sesión nueva puede continuar solo desde el estado del repositorio. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/starter) | Código de Project 01 con importación, vista de detalle y persistencia todavía incompletas. La documentación existe, pero es más ligera y no hay `session-handoff.md`. | Cuánto contexto tiene que redescubrir una segunda sesión del agente. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) | La misma porción de producto ya completada, con documentación de handoff bajo [`projects/project-02/solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution), además de [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/feature_list.json) y [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | Si una sesión nueva puede continuar solo desde el estado del repositorio. |
 
 Las funciones de producto son importación de documentos, carga completa del detalle/contenido y persistencia tras reiniciar. La función de harness es un workspace legible y fácil de retomar.
 

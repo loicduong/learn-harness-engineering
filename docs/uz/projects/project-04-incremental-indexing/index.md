@@ -13,14 +13,14 @@ Siz buni ikki marta bajarasiz: birinchisida loglar va cheklovlarsiz, ikkinchisid
 
 ## Repodagi tayyor loyihadan foydalaning
 
-Repo yoʻli: `projects/project-04/`
+Repo yoʻli: [`projects/project-04/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04)
 
 | Katalog | Nimalar bor | Nimani taqqoslash |
 |------|------|------|
-| `starter/` | Project 03 kodi, diagnostika signallari zaif. Kiritilgan indexing nuqsoni katta fayllar chunkingʼini buzishi mumkin; architecture check script yoʻq. | Runtime signallarsiz agent root causeʼni qancha vaqtda topadi. |
-| `solution/` | Structured logger, architecture boundary hujjatlari va script, tuzatilgan chunking logic, `clean-state-checklist.md`. | Logs va boundary checks tuzatishni tezroq va kamroq xavfli qiladimi. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/starter) | Project 03 kodi, diagnostika signallari zaif. Kiritilgan indexing nuqsoni katta fayllar chunkingʼini buzishi mumkin; architecture check script yoʻq. | Runtime signallarsiz agent root causeʼni qancha vaqtda topadi. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/solution) | Structured logger, architecture boundary hujjatlari va script, tuzatilgan chunking logic, [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md). | Logs va boundary checks tuzatishni tezroq va kamroq xavfli qiladimi. |
 
-Tekshiriladigan fayllar: `projects/project-04/solution/src/services/logger.ts`, `projects/project-04/solution/scripts/check-architecture.sh`, `projects/project-04/solution/docs/ARCHITECTURE.md`, `projects/project-04/solution/src/services/indexing-service.ts`.
+Tekshiriladigan fayllar: [`projects/project-04/solution/src/services/logger.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md), [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts).
 
 ## Vositalar
 

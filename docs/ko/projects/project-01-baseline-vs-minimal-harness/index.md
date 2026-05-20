@@ -28,11 +28,11 @@
 
 ## 저장소에 포함된 프로젝트 사용하기
 
-저장소 경로: `projects/project-01/`
+저장소 경로: [`projects/project-01/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01)
 
 | 디렉터리 | 무엇이 들어있나 | 어떻게 사용할까 / 무엇을 비교할까 |
 |------|------|------|
-| `starter/` | 약한 하네스 실행용. 작업 설명은 `task-prompt.md`만 있고 `AGENTS.md`나 `feature_list.json`은 없습니다. | 프롬프트만 에이전트에 주고, 추가 구조 없이 무엇을 완성하는지 측정합니다. |
-| `solution/` | 같은 제품 슬라이스에 명시적인 하네스 산출물 포함: `AGENTS.md`, `CLAUDE.md`, `init.sh`, `feature_list.json`, `claude-progress.md`. | 규칙/검증이 같은 작업을 어떻게 구체화하고 검증 가능하게 만드는지 비교합니다. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/starter) | 약한 하네스 실행용. 작업 설명은 [`task-prompt.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/starter/task-prompt.md)만 있고 `AGENTS.md`나 `feature_list.json`은 없습니다. | 프롬프트만 에이전트에 주고, 추가 구조 없이 무엇을 완성하는지 측정합니다. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/solution) | 같은 제품 슬라이스에 명시적인 하네스 산출물 포함: [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/feature_list.json), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | 규칙/검증이 같은 작업을 어떻게 구체화하고 검증 가능하게 만드는지 비교합니다. |
 
 구체적인 4개 기능은 창 실행, 문서 목록, 질문 패널, 로컬 데이터 디렉터리 생성입니다. 각 기능의 기대 증거는 `solution/feature_list.json`을 확인하세요.

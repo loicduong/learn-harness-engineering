@@ -15,12 +15,12 @@ Kurs senaryosu kısa bir hazırlık veya yeniden keşif süresini örnek olarak 
 
 ## Depodaki projeyi kullanın
 
-Depo yolu: `projects/project-01/`
+Depo yolu: [`projects/project-01/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01)
 
 | Dizin | İçerik | Nasıl kullanılır |
 |------|------|------|
-| `starter/` | Zayıf harness sürümü; yalnızca `task-prompt.md` vardır, `AGENTS.md` veya `feature_list.json` yoktur. | Prompt'u coding agent'a verin ve ek yapı olmadan neleri tamamladığını ölçün. |
-| `solution/` | Aynı ürün dilimi; ayrıca `AGENTS.md`, `CLAUDE.md`, `init.sh`, `feature_list.json`, `claude-progress.md` içerir. | Kuralların ve doğrulama kanıtlarının aynı görevi nasıl somutlaştırdığını karşılaştırın. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/starter) | Zayıf harness sürümü; yalnızca [`task-prompt.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) vardır, `AGENTS.md` veya `feature_list.json` yoktur. | Prompt'u coding agent'a verin ve ek yapı olmadan neleri tamamladığını ölçün. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/solution) | Aynı ürün dilimi; ayrıca [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/feature_list.json), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/claude-progress.md) içerir. | Kuralların ve doğrulama kanıtlarının aynı görevi nasıl somutlaştırdığını karşılaştırın. |
 
 Dört somut özellik: pencerenin açılması, doküman listesi, Soru-Cevap paneli ve yerel veri dizini. Beklenen kanıt `solution/feature_list.json` içindedir.
 

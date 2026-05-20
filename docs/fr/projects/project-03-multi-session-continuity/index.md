@@ -13,12 +13,12 @@ Vous l'exécutez deux fois : d'abord sans contraintes, puis avec application str
 
 ## Utiliser le projet fourni
 
-Chemin dans le dépôt : `projects/project-03/`
+Chemin dans le dépôt : [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | Dossier | Contenu | À comparer |
 |------|------|------|
-| `starter/` | Code de Project 02 avec indexation et Q&A avec citations encore incomplets. Il contient un premier `feature_list.json`, mais pas les artefacts finaux de reprise. | Si l'agent dérive entre plusieurs fonctions ou perd l'état après redémarrage. |
-| `solution/` | Chunking, métadonnées, état d'indexation et Q&A avec citations terminés, plus `init.sh`, `session-handoff.md`, `claude-progress.md`, `clean-state-checklist.md`. | Si chaque fonction a une preuve concrète avant d'être marquée comme réussie. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | Code de Project 02 avec indexation et Q&A avec citations encore incomplets. Il contient un premier [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json), mais pas les artefacts finaux de reprise. | Si l'agent dérive entre plusieurs fonctions ou perd l'état après redémarrage. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | Chunking, métadonnées, état d'indexation et Q&A avec citations terminés, plus [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md). | Si chaque fonction a une preuve concrète avant d'être marquée comme réussie. |
 
 ## Outils
 

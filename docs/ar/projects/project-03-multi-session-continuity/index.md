@@ -13,12 +13,12 @@
 
 ## استخدم المشروع الموجود في المستودع
 
-مسار المستودع: `projects/project-03/`
+مسار المستودع: [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | المجلد | ماذا يحتوي | ماذا تقارن |
 |------|------|------|
-| `starter/` | كود Project 02 وفيه indexing و Q&A مع citations غير مكتملين بعد. يوجد `feature_list.json` أولي، لكن لا توجد ملفات handoff/restart النهائية. | هل ينحرف الوكيل بين عدة ميزات أو يفقد الحالة بعد إعادة التشغيل. |
-| `solution/` | chunking و metadata و index status و citation-based Q&A مكتملة، مع `init.sh` و `session-handoff.md` و `claude-progress.md` و `clean-state-checklist.md`. | هل تملك كل ميزة دليل تحقق قبل وضعها في حالة pass. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | كود Project 02 وفيه indexing و Q&A مع citations غير مكتملين بعد. يوجد [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json) أولي، لكن لا توجد ملفات handoff/restart النهائية. | هل ينحرف الوكيل بين عدة ميزات أو يفقد الحالة بعد إعادة التشغيل. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | chunking و metadata و index status و citation-based Q&A مكتملة، مع [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh) و [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md) و [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md) و [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md). | هل تملك كل ميزة دليل تحقق قبل وضعها في حالة pass. |
 
 ## الأدوات
 

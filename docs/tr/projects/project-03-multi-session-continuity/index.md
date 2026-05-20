@@ -15,12 +15,12 @@ Bir `feature_list.json` gerekir; her özelliğin açık bir durumu olmalıdır. 
 
 ## Depodaki projeyi kullanın
 
-Depo yolu: `projects/project-03/`
+Depo yolu: [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | Dizin | İçerik | Nasıl kullanılır |
 |------|------|------|
-| `starter/` | Project 02 kodu; indeksleme ve alıntılı Soru-Cevap tamamlanmamıştır. Starter sürümü `feature_list.json` içerir ama son yeniden başlatma/devir artefaktları eksiktir. | Agent'ın birden çok özellik arasında kayıp kaymadığını ve yeniden başlatmadan sonra durumu kaybedip kaybetmediğini ölçün. |
-| `solution/` | Doküman parçalama, üst veri, indeksleme durumu ve alıntılı Soru-Cevap tamamlanmıştır; ayrıca `init.sh`, `session-handoff.md`, `claude-progress.md`, `clean-state-checklist.md` eklenmiştir. | Her özelliğin ancak doğrulama kanıtı varsa `passing` olup olmadığını kontrol edin. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | Project 02 kodu; indeksleme ve alıntılı Soru-Cevap tamamlanmamıştır. Starter sürümü [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json) içerir ama son yeniden başlatma/devir artefaktları eksiktir. | Agent'ın birden çok özellik arasında kayıp kaymadığını ve yeniden başlatmadan sonra durumu kaybedip kaybetmediğini ölçün. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | Doküman parçalama, üst veri, indeksleme durumu ve alıntılı Soru-Cevap tamamlanmıştır; ayrıca [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md) eklenmiştir. | Her özelliğin ancak doğrulama kanıtı varsa `passing` olup olmadığını kontrol edin. |
 
 ## Araçlar
 

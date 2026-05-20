@@ -13,12 +13,12 @@
 
 ## Используйте проект из репозитория
 
-Путь: `projects/project-06/`
+Путь: [`projects/project-06/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06)
 
 | Каталог | Что внутри | Что сравнивать |
 |------|------|------|
-| `starter/` | Продукт почти готов, но harness намеренно ослаблен: базовый `AGENTS.md`, нет `feature_list.json`, `session-handoff.md`, clean-state checklist и benchmark/cleanup scripts. | Ручные наблюдения baseline со слабым harness. |
-| `solution/` | Полный harness: `AGENTS.md`, `CLAUDE.md`, `feature_list.json`, `init.sh`, `session-handoff.md`, `clean-state-checklist.md`, quality/evaluator docs и scripts. | Запустить `projects/project-06/solution/scripts/benchmark.sh` и `projects/project-06/solution/scripts/cleanup-scanner.sh`, затем сравнить quality evidence. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/starter) | Продукт почти готов, но harness намеренно ослаблен: базовый [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/starter/AGENTS.md), нет `feature_list.json`, `session-handoff.md`, clean-state checklist и benchmark/cleanup scripts. | Ручные наблюдения baseline со слабым harness. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-06/solution) | Полный harness: [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), quality/evaluator docs и scripts. | Запустить [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh) и [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh), затем сравнить quality evidence. |
 
 ## Инструменты
 

@@ -26,11 +26,11 @@ Harness minimal : `AGENTS.md` + `init.sh` + `feature_list.json`
 
 ## Utiliser le projet fourni dans le dépôt
 
-Chemin dans le dépôt : `projects/project-01/`
+Chemin dans le dépôt : [`projects/project-01/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01)
 
 | Dossier | Ce qu’il contient | Comment l’utiliser |
 |------|------|------|
-| `starter/` | Exécution « harness faible ». Contient uniquement `task-prompt.md` comme description de la tâche, sans `AGENTS.md` ni `feature_list.json`. | Donne le prompt à ton agent et mesure ce qu’il termine sans structure supplémentaire. |
-| `solution/` | Le même slice produit avec des artefacts de harness explicites : `AGENTS.md`, `CLAUDE.md`, `init.sh`, `feature_list.json` et `claude-progress.md`. | Compare comment les règles et la vérification rendent la même tâche concrète et vérifiable. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/starter) | Exécution « harness faible ». Contient uniquement [`task-prompt.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) comme description de la tâche, sans `AGENTS.md` ni `feature_list.json`. | Donne le prompt à ton agent et mesure ce qu’il termine sans structure supplémentaire. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-01/solution) | Le même slice produit avec des artefacts de harness explicites : [`AGENTS.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/feature_list.json) et [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | Compare comment les règles et la vérification rendent la même tâche concrète et vérifiable. |
 
 Les quatre fonctionnalités concrètes sont : ouverture de la fenêtre, liste de documents, panneau de questions, et création du répertoire de données local. Consulte `solution/feature_list.json` pour l’évidence attendue pour chaque fonctionnalité.

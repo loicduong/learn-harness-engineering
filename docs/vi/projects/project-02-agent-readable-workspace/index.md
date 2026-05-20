@@ -13,12 +13,12 @@ Bạn chạy hai lần: lần đầu không có sự trợ giúp nào, lần hai
 
 ## Dùng project có sẵn trong repo
 
-Đường dẫn repo: `projects/project-02/`
+Đường dẫn repo: [`projects/project-02/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02)
 
 | Thư mục | Nội dung | So sánh gì |
 |------|------|------|
-| `starter/` | Code từ Project 01, nhưng import tài liệu, trang chi tiết và persistence vẫn chưa hoàn chỉnh. Tài liệu có nhưng mỏng hơn, và không có `session-handoff.md`. | Phiên agent thứ hai phải tự khám phá lại bao nhiêu ngữ cảnh. |
-| `solution/` | Cùng phạm vi sản phẩm đã hoàn thành, có tài liệu handoff dưới `projects/project-02/solution/`, cùng `feature_list.json` và `session-handoff.md`. | Phiên mới có thể tiếp tục chỉ từ trạng thái repo hay không. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/starter) | Code từ Project 01, nhưng import tài liệu, trang chi tiết và persistence vẫn chưa hoàn chỉnh. Tài liệu có nhưng mỏng hơn, và không có `session-handoff.md`. | Phiên agent thứ hai phải tự khám phá lại bao nhiêu ngữ cảnh. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) | Cùng phạm vi sản phẩm đã hoàn thành, có tài liệu handoff dưới [`projects/project-02/solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution), cùng [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/feature_list.json) và [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | Phiên mới có thể tiếp tục chỉ từ trạng thái repo hay không. |
 
 ## Công cụ
 

@@ -15,14 +15,14 @@
 
 ## 저장소에 포함된 프로젝트 사용하기
 
-저장소 경로: `projects/project-05/`
+저장소 경로: [`projects/project-05/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05)
 
 | 디렉터리 | 내용 | 비교할 것 |
 |------|------|------|
-| `starter/` | Project 04 기반 앱이며 대화 기록 업그레이드 전 상태입니다. | 세 변형을 다시 실행할 때의 시작점. |
-| `solution/single-role/` | 한 에이전트가 계획, 구현, 자기 평가를 모두 수행합니다. | `evaluator-rubric.md`의 점수와 결함. |
-| `solution/gen-eval/` | generator + evaluator 구조이며 수정 증거가 있습니다. | `evaluator-rubric.md`의 점수와 revision notes. |
-| `solution/plan-gen-eval/` | planner + generator + evaluator와 sprint contract가 있습니다. | `sprint-contract.md`와 `evaluator-rubric.md`의 높은 평가 증거. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/starter) | Project 04 기반 앱이며 대화 기록 업그레이드 전 상태입니다. | 세 변형을 다시 실행할 때의 시작점. |
+| [`solution/single-role/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/single-role) | 한 에이전트가 계획, 구현, 자기 평가를 모두 수행합니다. | [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md)의 점수와 결함. |
+| [`solution/gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator 구조이며 수정 증거가 있습니다. | [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md)의 점수와 revision notes. |
+| [`solution/plan-gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator와 sprint contract가 있습니다. | [`sprint-contract.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md)와 [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md)의 높은 평가 증거. |
 
 ## 도구
 

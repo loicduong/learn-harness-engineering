@@ -13,14 +13,14 @@
 
 ## Используйте проект из репозитория
 
-Путь: `projects/project-05/`
+Путь: [`projects/project-05/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05)
 
 | Каталог | Что внутри | Что сравнивать |
 |------|------|------|
-| `starter/` | Приложение на базе Project 04 до добавления истории диалога. | Стартовая точка для повторного запуска трёх вариантов. |
-| `solution/single-role/` | Один агент планирует, реализует и сам себя оценивает. | Оценка и дефекты в `evaluator-rubric.md`. |
-| `solution/gen-eval/` | Generator + evaluator с доказательствами правок. | Оценка и заметки ревизии в `evaluator-rubric.md`. |
-| `solution/plan-gen-eval/` | Planner + generator + evaluator со sprint contract. | `sprint-contract.md` и более высокая оценка в `evaluator-rubric.md`. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/starter) | Приложение на базе Project 04 до добавления истории диалога. | Стартовая точка для повторного запуска трёх вариантов. |
+| [`solution/single-role/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/single-role) | Один агент планирует, реализует и сам себя оценивает. | Оценка и дефекты в [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md). |
+| [`solution/gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/gen-eval) | Generator + evaluator с доказательствами правок. | Оценка и заметки ревизии в [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md). |
+| [`solution/plan-gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | Planner + generator + evaluator со sprint contract. | [`sprint-contract.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) и более высокая оценка в [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md). |
 
 ## Инструменты
 

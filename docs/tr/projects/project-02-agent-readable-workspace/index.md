@@ -13,12 +13,12 @@ Depoya "okunabilirlik" ekleyin; böylece yeni bir ajan proje yapısını hızla 
 
 ## Depodaki projeyi kullanın
 
-Depo yolu: `projects/project-02/`
+Depo yolu: [`projects/project-02/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02)
 
 | Dizin | İçerik | Nasıl kullanılır |
 |------|------|------|
-| `starter/` | Project 01 kodu; tamamlanmamış doküman içe aktarma, detay görünümü ve kalıcılık içerir. Dokümanlar vardır ama incedir; `session-handoff.md` yoktur. | İkinci agent oturumunun ne kadar bağlamı yeniden keşfetmesi gerektiğini ölçün. |
-| `solution/` | Aynı ürün dilimini tamamlar ve `projects/project-02/solution/` altında çekirdek dokümanları, `feature_list.json` ve `session-handoff.md` dosyalarını ekler. | Yeni oturumun yalnızca depo durumuna bakarak çalışmaya devam edip edemediğini kontrol edin. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/starter) | Project 01 kodu; tamamlanmamış doküman içe aktarma, detay görünümü ve kalıcılık içerir. Dokümanlar vardır ama incedir; `session-handoff.md` yoktur. | İkinci agent oturumunun ne kadar bağlamı yeniden keşfetmesi gerektiğini ölçün. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) | Aynı ürün dilimini tamamlar ve [`projects/project-02/solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) altında çekirdek dokümanları, [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/feature_list.json) ve [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/session-handoff.md) dosyalarını ekler. | Yeni oturumun yalnızca depo durumuna bakarak çalışmaya devam edip edemediğini kontrol edin. |
 
 Ürün özellikleri doküman içe aktarma, tam detay/içerik yükleme ve yeniden başlatmalar arasında kalıcılıktır; harness özelliği ise devredilebilir, agent-readable workspace'tir.
 

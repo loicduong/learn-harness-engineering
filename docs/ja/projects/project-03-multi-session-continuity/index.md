@@ -13,12 +13,12 @@
 
 ## リポジトリ内のプロジェクトを使う
 
-リポジトリ内のパス: `projects/project-03/`
+リポジトリ内のパス: [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | ディレクトリ | 含まれるもの | 比較すること |
 |------|------|------|
-| `starter/` | Project 02 のコードで、indexing と citation 付き Q&A がまだ未完成です。初期の `feature_list.json` はありますが、最終的な handoff/restart 成果物はありません。 | 複数機能をまたぐときにエージェントが逸れたり状態を失ったりするか。 |
-| `solution/` | chunking、metadata、index status、citation-based QA が完成し、`init.sh`、`session-handoff.md`、`claude-progress.md`、`clean-state-checklist.md` もあります。 | 各機能が pass になる前に具体的な検証証拠を持つか。 |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | Project 02 のコードで、indexing と citation 付き Q&A がまだ未完成です。初期の [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json) はありますが、最終的な handoff/restart 成果物はありません。 | 複数機能をまたぐときにエージェントが逸れたり状態を失ったりするか。 |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | chunking、metadata、index status、citation-based QA が完成し、[`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh)、[`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md)、[`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md)、[`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md) もあります。 | 各機能が pass になる前に具体的な検証証拠を持つか。 |
 
 ## ツール
 

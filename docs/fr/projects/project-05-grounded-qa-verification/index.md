@@ -13,14 +13,14 @@ Choisissez une amélioration substantielle de fonctionnalité, comme une convers
 
 ## Utiliser le projet fourni
 
-Chemin dans le dépôt : `projects/project-05/`
+Chemin dans le dépôt : [`projects/project-05/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05)
 
 | Dossier | Contenu | À comparer |
 |------|------|------|
-| `starter/` | Application basée sur Project 04 avant l'ajout de l'historique conversationnel. | Point de départ pour relancer les trois variantes. |
-| `solution/single-role/` | Un agent planifie, implémente et s'auto-évalue. | Score et défauts dans `evaluator-rubric.md`. |
-| `solution/gen-eval/` | Générateur + évaluateur avec preuve de révision. | Score et notes de révision dans `evaluator-rubric.md`. |
-| `solution/plan-gen-eval/` | Planner + générateur + évaluateur avec sprint contract. | `sprint-contract.md` et preuves de score plus élevé dans `evaluator-rubric.md`. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/starter) | Application basée sur Project 04 avant l'ajout de l'historique conversationnel. | Point de départ pour relancer les trois variantes. |
+| [`solution/single-role/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/single-role) | Un agent planifie, implémente et s'auto-évalue. | Score et défauts dans [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md). |
+| [`solution/gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/gen-eval) | Générateur + évaluateur avec preuve de révision. | Score et notes de révision dans [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md). |
+| [`solution/plan-gen-eval/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | Planner + générateur + évaluateur avec sprint contract. | [`sprint-contract.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) et preuves de score plus élevé dans [`evaluator-rubric.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md). |
 
 ## Outils
 

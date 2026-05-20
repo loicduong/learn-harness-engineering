@@ -13,12 +13,12 @@ Du führst es zweimal aus: zuerst ohne Einschränkungen, dann mit strikter Durch
 
 ## Nutze das eingecheckte Projekt
 
-Repository-Pfad: `projects/project-03/`
+Repository-Pfad: [`projects/project-03/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03)
 
 | Verzeichnis | Inhalt | Vergleichspunkt |
 |------|------|------|
-| `starter/` | Project-02-Code, bei dem Indexierung und zitierfähiges Q&A noch unvollständig sind. Es gibt ein erstes `feature_list.json`, aber keine finalen Neustart- und Übergabeartefakte. | Ob der Agent über mehrere Funktionen driftet oder nach einem Neustart Zustand verliert. |
-| `solution/` | Chunking, Metadaten, Indexierungsstatus und Q&A mit Zitaten sind fertig, plus `init.sh`, `session-handoff.md`, `claude-progress.md` und `clean-state-checklist.md`. | Ob jede Funktion konkrete Evidenz hat, bevor sie als bestanden markiert wird. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/starter) | Project-02-Code, bei dem Indexierung und zitierfähiges Q&A noch unvollständig sind. Es gibt ein erstes [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/starter/feature_list.json), aber keine finalen Neustart- und Übergabeartefakte. | Ob der Agent über mehrere Funktionen driftet oder nach einem Neustart Zustand verliert. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-03/solution) | Chunking, Metadaten, Indexierungsstatus und Q&A mit Zitaten sind fertig, plus [`init.sh`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/claude-progress.md) und [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md). | Ob jede Funktion konkrete Evidenz hat, bevor sie als bestanden markiert wird. |
 
 ## Werkzeuge
 

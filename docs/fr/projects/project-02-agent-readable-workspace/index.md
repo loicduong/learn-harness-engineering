@@ -13,12 +13,12 @@ Vous l'exécutez deux fois : d'abord sans aide, puis avec `ARCHITECTURE.md`, `PR
 
 ## Utiliser le projet fourni
 
-Chemin dans le dépôt : `projects/project-02/`
+Chemin dans le dépôt : [`projects/project-02/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02)
 
 | Dossier | Contenu | À comparer |
 |------|------|------|
-| `starter/` | Code de Project 01 avec import, vue détail et persistance encore incomplets. La documentation existe, mais elle est plus légère et il n'y a pas de `session-handoff.md`. | Combien de contexte une deuxième session doit redécouvrir. |
-| `solution/` | Même tranche produit terminée, avec documentation de reprise sous `projects/project-02/solution/`, plus `feature_list.json` et `session-handoff.md`. | Si une nouvelle session peut reprendre uniquement depuis l'état du dépôt. |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/starter) | Code de Project 01 avec import, vue détail et persistance encore incomplets. La documentation existe, mais elle est plus légère et il n'y a pas de `session-handoff.md`. | Combien de contexte une deuxième session doit redécouvrir. |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution) | Même tranche produit terminée, avec documentation de reprise sous [`projects/project-02/solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-02/solution), plus [`feature_list.json`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/feature_list.json) et [`session-handoff.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | Si une nouvelle session peut reprendre uniquement depuis l'état du dépôt. |
 
 ## Outils
 

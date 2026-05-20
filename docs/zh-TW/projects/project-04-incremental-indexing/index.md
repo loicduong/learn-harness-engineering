@@ -13,12 +13,12 @@
 
 ## 使用倉庫內建專案
 
-倉庫路徑：`projects/project-04/`
+倉庫路徑：[`projects/project-04/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04)
 
 | 目錄 | 內容 | 比較什麼 |
 |------|------|------|
-| `starter/` | Project 03 代碼，但診斷較弱；存在一個種子缺陷，可能導致大文件 chunking/索引失敗；也沒有架構檢查腳本。 | 沒有運行時信號時，定位根因需要多久、改動是否擴散。 |
-| `solution/` | 結構化 logger、架構邊界文檔與腳本、修復 chunking/索引邏輯，並補齊 `clean-state-checklist.md`。 | 有日誌與邊界檢查後，修復是否更快、更可控、可復現。 |
+| [`starter/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/starter) | Project 03 代碼，但診斷較弱；存在一個種子缺陷，可能導致大文件 chunking/索引失敗；也沒有架構檢查腳本。 | 沒有運行時信號時，定位根因需要多久、改動是否擴散。 |
+| [`solution/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects/project-04/solution) | 結構化 logger、架構邊界文檔與腳本、修復 chunking/索引邏輯，並補齊 [`clean-state-checklist.md`](https://github.com/walkinglabs/learn-harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md)。 | 有日誌與邊界檢查後，修復是否更快、更可控、可復現。 |
 
 ## 用什麼工具
 
