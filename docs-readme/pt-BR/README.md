@@ -247,9 +247,31 @@ Todos os seis projetos do curso giram em torno do mesmo produto: **um aplicativo
 
 ```text
     ┌─────────────────────────────────────────────────────┐
-    │            
-```
+    │         Aplicativo Desktop Base de Conhecimento     │
+    │                                                     │
+    │  ┌──────────────┐  ┌──────────────────────────────┐│
+    │  │ Lista de     │  │    Painel de Perguntas e     ││
+    │  │ Documentos   │  │    Respostas                 ││
+    │  │              │  │                              ││
+    │  │ doc-001.md   │  │  P: O que é harness eng?     ││
+    │  │ doc-002.md   │  │  R: O ambiente construído    ││
+    │  │ doc-003.md   │  │     em torno de um agente... ││
+    │  │ ...          │  │     [citação: doc-002.md]    ││
+    │  └──────────────┘  └──────────────────────────────┘│
+    │                                                     │
+    │  ┌─────────────────────────────────────────────────┐│
+    │  │ Barra de status: 42 docs | 38 indexados | últ. 3m│
+    │  └─────────────────────────────────────────────────┘│
+    └─────────────────────────────────────────────────────┘
 
+    Funcionalidades principais:
+    ├── Importar documentos locais
+    ├── Gerenciar uma biblioteca de documentos
+    ├── Processar e indexar documentos
+    ├── Executar P&R com IA sobre o conteúdo importado
+    └── Retornar respostas fundamentadas com citações
+```
+         
 ```text
 - Capacidade de ler e escrever código em pelo menos uma pilha de aplicativos comum
 - Experiência básica em depuração de software (leitura de logs, testes e comportamento em tempo de execução)
