@@ -1,0 +1,28 @@
+docs/.vitepress/config.mts
+  s_df814a64168bce::t_7bfc615ddd5fc9 636-638
+  s_5080b384308ab6::t_9f857bb8a3a14d 634-635,639
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "182a56287932e94b6cd5ebb645aa5c73b8e11e7a",
+  "prompts": {},
+  "sessions": {
+    "s_5080b384308ab6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9209-7da7-7ca2-8e4e-b6035e33ace6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Loic Duong <mikhailcolt@gmail.com>"
+    },
+    "s_df814a64168bce": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9221-c35f-7cb2-baa3-decaefb577bc",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Loic Duong <mikhailcolt@gmail.com>"
+    }
+  }
+}
