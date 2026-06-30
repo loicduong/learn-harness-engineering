@@ -13,6 +13,7 @@
   <a href="docs-readme/uz-UZ/README.md"><img alt="Oʻzbekcha" src="https://img.shields.io/badge/UZ-Oʻzbekcha-1A8BBA?style=flat-square"></a>
   <a href="docs-readme/tr-TR/README.md"><img alt="Türkçe" src="https://img.shields.io/badge/TR-Türkçe-E30A17?style=flat-square"></a>
   <a href="docs-readme/pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
+  <a href="docs-readme/uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
 
 <h1 align="center">Aprenda Engenharia de Harness</h1>
@@ -22,11 +23,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Aulas-12-blue?style=flat-square" alt="12 Aulas">
   <img src="https://img.shields.io/badge/Projetos-6-green?style=flat-square" alt="6 Projetos">
-  <img src="https://img.shields.io/badge/Idiomas-14-yellow?style=flat-square" alt="14 Idiomas">
+  <img src="https://img.shields.io/badge/Idiomas-15-yellow?style=flat-square" alt="15 Idiomas">
   <img src="https://img.shields.io/badge/Licença-MIT-lightgrey?style=flat-square" alt="Licença MIT">
 </p>
 
-> 🌍 Este curso está disponível em **14 idiomas**: Inglês, 简体中文, 繁體中文, 日本語, 한국어, Español, Français, Русский, Deutsch, العربية, Tiếng Việt, Oʻzbekcha, Türkçe e Português (BR). Escolha seu idioma nos emblemas acima.
+> 🌍 Este curso está disponível em **15 idiomas**: Inglês, 简体中文, 繁體中文, 日本語, 한국어, Español, Français, Русский, Deutsch, العربية, Tiếng Việt, Oʻzbekcha, Türkçe, Português (BR) e Українська. Escolha seu idioma nos emblemas acima.
 
 Aprenda Engenharia de Harness é um curso dedicado à engenharia de agentes de codificação de IA. Estudamos profundamente e sintetizamos as teorias e práticas mais avançadas de Engenharia de Harness na indústria. Nossas referências principais incluem:
 

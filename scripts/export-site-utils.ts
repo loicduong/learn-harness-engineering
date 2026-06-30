@@ -57,7 +57,14 @@ export const readmeScreenshotTargets: ScreenshotTarget[] = [
     routePath: '/zh/lectures/lecture-01-why-capable-agents-still-fail/',
     outputName: 'zh-lecture-01.png'
   },
-  { language: 'zh', routePath: '/zh/resources/', outputName: 'zh-resources.png' }
+  { language: 'zh', routePath: '/zh/resources/', outputName: 'zh-resources.png' },
+  { language: 'uk', routePath: '/uk/', outputName: 'uk-home.png' },
+  {
+    language: 'uk',
+    routePath: '/uk/lectures/lecture-01-why-capable-agents-still-fail/',
+    outputName: 'uk-lecture-01.png'
+  },
+  { language: 'uk', routePath: '/uk/resources/', outputName: 'uk-resources.png' }
 ]
 
 export async function ensureDirectory(targetPath: string) {

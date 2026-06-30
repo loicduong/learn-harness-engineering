@@ -529,6 +529,43 @@ const ptBRSkillItems = [
   { text: "Visão Geral das Skills", link: "/pt-BR/skills/" },
 ];
 
+const ukLectureItems = [
+  { text: "Вітаємо", link: "/uk/" },
+  { text: "Сильна модель не гарантує надійного виконання", link: "/uk/lectures/lecture-01-why-capable-agents-still-fail/" },
+  { text: "Що таке harness насправді", link: "/uk/lectures/lecture-02-what-a-harness-actually-is/" },
+  { text: "Чому репозиторій має стати єдиним джерелом правди", link: "/uk/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/" },
+  { text: "Чому один величезний файл інструкцій не працює", link: "/uk/lectures/lecture-04-why-one-giant-instruction-file-fails/" },
+  { text: "Чому довготривалі задачі втрачають контекст", link: "/uk/lectures/lecture-05-why-long-running-tasks-lose-continuity/" },
+  { text: "Чому ініціалізація потребує окремої фази", link: "/uk/lectures/lecture-06-why-initialization-needs-its-own-phase/" },
+  { text: "Чому агенти беруть забагато й не доводять до кінця", link: "/uk/lectures/lecture-07-why-agents-overreach-and-under-finish/" },
+  { text: "Чому списки функціональності — це примітиви harness", link: "/uk/lectures/lecture-08-why-feature-lists-are-harness-primitives/" },
+  { text: "Чому агенти надто рано оголошують перемогу", link: "/uk/lectures/lecture-09-why-agents-declare-victory-too-early/" },
+  { text: "Чому наскрізне тестування змінює результати", link: "/uk/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
+  { text: "Чому спостережуваність має бути всередині harness", link: "/uk/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
+  { text: "Чому кожна сесія має залишати чистий стан", link: "/uk/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+];
+
+const ukProjectItems = [
+  { text: "Вітаємо", link: "/uk/projects/" },
+  { text: "Тільки промпт vs. правила спочатку", link: "/uk/projects/project-01-baseline-vs-minimal-harness/" },
+  { text: "Робоче середовище, зрозуміле агенту", link: "/uk/projects/project-02-agent-readable-workspace/" },
+  { text: "Безперервність між сесіями", link: "/uk/projects/project-03-multi-session-continuity/" },
+  { text: "Зворотний зв'язок у runtime і контроль обсягу", link: "/uk/projects/project-04-incremental-indexing/" },
+  { text: "Самоверифікація та розподіл ролей", link: "/uk/projects/project-05-grounded-qa-verification/" },
+  { text: "Повний harness (підсумковий проєкт)", link: "/uk/projects/project-06-runtime-observability-and-debugging/" },
+];
+
+const ukResourceItems = [
+  { text: "Огляд", link: "/uk/resources/" },
+  { text: "Шаблони", link: "/uk/resources/templates/" },
+  { text: "Довідник", link: "/uk/resources/reference/" },
+  { text: "Розширений пакет", link: "/uk/resources/openai-advanced/" },
+];
+
+const ukSkillItems = [
+  { text: "Огляд Skills", link: "/uk/skills/" },
+];
+
 const jaSourceItems = { lectures: jaLectureItems, projects: jaProjectItems, resources: jaResourceItems, skills: jaSkillItems };
 const esSourceItems = { lectures: esLectureItems, projects: esProjectItems, resources: esResourceItems, skills: esSkillItems };
 const frSourceItems = { lectures: frLectureItems, projects: frProjectItems, resources: frResourceItems, skills: frSkillItems };
@@ -536,12 +573,13 @@ const deSourceItems = { lectures: deLectureItems, projects: deProjectItems, reso
 const arSourceItems = { lectures: arLectureItems, projects: arProjectItems, resources: arResourceItems, skills: arSkillItems };
 const zhTWSourceItems = { lectures: zhTWLectureItems, projects: zhTWProjectItems, resources: zhTWResourceItems, skills: zhTWSkillItems };
 const trSourceItems = { lectures: trLectureItems, projects: trProjectItems, resources: trResourceItems, skills: trSkillItems };
+const ukSourceItems = { lectures: ukLectureItems, projects: ukProjectItems, resources: ukResourceItems, skills: ukSkillItems };
 
 const relinkItems = (items: Array<{ text: string; link: string }>, locale: string) =>
   items.map((item) => ({
     ...item,
     link: item.link.replace(
-      /^\/(en|zh|vi|ko|uz|ru|ja|es|fr|de|ar|zh-TW|tr|pt-BR)\//,
+      /^\/(en|zh|vi|ko|uz|ru|ja|es|fr|de|ar|zh-TW|tr|pt-BR|uk)\//,
       `/${locale}/`,
     ),
   }));
@@ -1182,6 +1220,28 @@ export default withMermaid(
           darkModeSwitchTitle: "Ativar tema escuro",
           socialLinks,
         },
+      },
+      uk: {
+        label: "Українська",
+        lang: "uk",
+        link: "/uk/",
+        themeConfig: createLocaleTheme("uk", ukSourceItems, {
+          lectures: "Лекції",
+          projects: "Проєкти",
+          resources: "Бібліотека",
+          skills: "Skills",
+          resourceLibrary: "Бібліотека ресурсів",
+          tryHarness: "Try Harness ↗",
+          outline: "На цій сторінці",
+          prev: "Назад",
+          next: "Далі",
+          lastUpdated: "Останнє оновлення",
+          returnToTop: "Повернутися нагору",
+          sidebarMenu: "Меню",
+          darkModeSwitch: "Тема",
+          lightModeSwitchTitle: "Перемкнути на світлу тему",
+          darkModeSwitchTitle: "Перемкнути на темну тему",
+        }),
       },
     },
   }),
