@@ -144,7 +144,7 @@ Los 5 defectos fueron detectados por las pruebas end-to-end, mientras que las pr
 
 ## Lecturas adicionales
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — La fuente clásica del modelo de Pirámide de Testing
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — La fuente clásica del modelo de Pirámide de Testing
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Prácticas de ingeniería para la ejecución automatizada de restricciones arquitectónicas
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Inyección proactiva de fallas para verificar la resiliencia del sistema
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Metodología de property testing, situada entre las pruebas de ejemplo y la verificación formal

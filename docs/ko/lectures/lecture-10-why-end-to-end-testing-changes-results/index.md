@@ -144,7 +144,7 @@ FIX: Move file operations to src/preload/file-ops.ts and call via window.api.rea
 
 ## 더 읽을거리
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — 테스팅 피라미드 모델의 고전적 원천
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — 테스팅 피라미드 모델의 고전적 원천
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — 아키텍처 제약의 자동화된 실행을 위한 엔지니어링 실천
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — 시스템 복원력 검증을 위한 능동적 장애 주입
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — 예제 테스트와 형식 검증 사이에 위치한 속성 테스팅 방법론

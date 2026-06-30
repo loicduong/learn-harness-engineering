@@ -144,7 +144,7 @@ FIX: Move file operations to src/preload/file-ops.ts and call via window.api.rea
 
 ## 参考資料
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — テスティングピラミッドモデルの古典的出典
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — テスティングピラミッドモデルの古典的出典
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — アーキテクチャ制約の自動実行のためのエンジニアリング実践
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — 能動的に障害を注入してシステムの回復力を検証
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — プロパティテスト手法、例示テストと形式検証の中間に位置する

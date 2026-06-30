@@ -142,7 +142,7 @@ All 5 defects were caught by end-to-end tests; unit tests caught none. The trade
 
 ## Further Reading
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — The classic source of the Testing Pyramid model
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — The classic source of the Testing Pyramid model
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Engineering practices for automated enforcement of architectural constraints
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Proactively injecting failures to verify system resilience
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Property testing methodology, sitting between example-based testing and formal verification

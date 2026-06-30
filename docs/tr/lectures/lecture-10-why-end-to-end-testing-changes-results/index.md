@@ -144,7 +144,7 @@ Kod incelemesi sırasında yeni bir ajan hatası türü bulunduğunda, onu otoma
 
 ## Daha fazla okuma
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — Test Piramidi modelinin klasik kaynağı
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — Test Piramidi modelinin klasik kaynağı
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Mimari kısıtlamaların otomatik yürütülmesi için mühendislik uygulamaları
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Sistem dayanıklılığını doğrulamak için proaktif olarak başarısızlık enjekte etmek
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Özellik testi metodolojisi, örnek testi ile resmi doğrulama arasında

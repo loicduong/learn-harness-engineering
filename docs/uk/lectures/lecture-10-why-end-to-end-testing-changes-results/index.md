@@ -142,7 +142,7 @@ FIX: Move file operations to src/preload/file-ops.ts and call via window.api.rea
 
 ## Додаткова література
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — Класичне джерело моделі Testing Pyramid
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — Класичне джерело моделі Testing Pyramid
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Інженерні практики автоматизованого забезпечення архітектурних обмежень
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Проактивне введення збоїв для верифікації стійкості системи
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Методологія тестування властивостей, що знаходиться між тестуванням на прикладах та формальною верифікацією

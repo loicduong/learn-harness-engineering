@@ -144,7 +144,7 @@ Alle 5 Defekte wurden von End-to-End-Tests gefunden, während Unit-Tests keinen 
 
 ## Weiterführende Literatur
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — Die klassische Quelle des Testing-Pyramid-Modells
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — Die klassische Quelle des Testing-Pyramid-Modells
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Engineering-Praktiken für die automatisierte Ausführung von Architektur-Einschränkungen
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Proaktives Injizieren von Fehlern zur Überprüfung der Systemresilienz
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Property-Testing-Methodik, angesiedelt zwischen Beispiel-Testing und formaler Verifikation

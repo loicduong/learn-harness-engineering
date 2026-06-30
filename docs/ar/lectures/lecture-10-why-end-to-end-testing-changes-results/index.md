@@ -144,7 +144,7 @@ FIX: Move file operations to src/preload/file-ops.ts and call via window.api.rea
 
 ## قراءات إضافية
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — المصدر الكلاسيكي لنموذج هرم الاختبار
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — المصدر الكلاسيكي لنموذج هرم الاختبار
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — ممارسات هندسية للتنفيذ الآلي للقيود المعمارية
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — حقن الأعطال استباقيًا للتحقق من مرونة النظام
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — منهجية اختبار الخصائص، تقع بين اختبار الأمثلة والتحقق الشكلي

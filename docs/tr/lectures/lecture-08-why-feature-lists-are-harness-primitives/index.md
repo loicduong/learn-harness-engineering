@@ -126,7 +126,7 @@ Nicel sonuç: yapılandırılmış özellik listeleri kullanan projeler serbest 
 - [Building Effective Agents - Anthropic](https://www.anthropic.com/research/building-effective-agents) — Özellik listesini ajan kapsamını kontrol etmek için "temel veri yapısı" olarak açıkça tanımlar
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — "Artefaktları dışsallaştırma" ilkesini vurgular
 - [Design by Contract - Bertrand Meyer](https://www.goodreads.com/book/show/130439.Object_Oriented_Software_Construction) — Sözleşme tasarım ilkeleri, özellik listelerinin teorik temeli
-- [How Google Tests Software](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — Test piramidi ve davranışsal spesifikasyon mühendislik uygulamaları
+- [How Google Tests Software](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — Test piramidi ve davranışsal spesifikasyon mühendislik uygulamaları
 
 ## Alıştırmalar
 

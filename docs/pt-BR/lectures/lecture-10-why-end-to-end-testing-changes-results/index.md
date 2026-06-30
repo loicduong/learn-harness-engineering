@@ -142,7 +142,7 @@ Todos os 5 defeitos foram detectados pelos testes end-to-end; os testes unitári
 
 ## Leitura Complementar
 
-- [Como o Google testa softwares - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — A fonte clássica do modelo da Pirâmide de Testes
+- [Como o Google testa softwares - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — A fonte clássica do modelo da Pirâmide de Testes
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Práticas de engenharia para aplicação automatizada de restrições arquiteturais
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Injeção proativa de falhas para verificar a resiliência de sistemas
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Metodologia de testes baseados em propriedades, posicionada entre testes baseados em exemplos e verificação formal

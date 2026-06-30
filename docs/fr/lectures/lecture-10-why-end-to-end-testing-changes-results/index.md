@@ -144,7 +144,7 @@ Les 5 défauts ont été détectés par les tests de bout en bout, tandis que le
 
 ## Pour aller plus loin
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — La source classique du modèle de pyramide de tests
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — La source classique du modèle de pyramide de tests
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Pratiques d'ingénierie pour l'exécution automatisée des contraintes architecturales
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Injection proactive de pannes pour vérifier la résilience du système
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Méthodologie de test par propriétés, entre le test par l'exemple et la vérification formelle

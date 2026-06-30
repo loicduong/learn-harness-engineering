@@ -144,7 +144,7 @@ Yuqoridagi 5 muammoni E2E tutilganida, unit testlarning birontasi ushlab qola ol
 
 ## Qoʻshimcha oʻqish uchun
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — Testlash Piramidasining klassik va ommaviy asosi
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — Testlash Piramidasining klassik va ommaviy asosi
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Arxitektura cheklovlarini avtomatik bajarish boʻyicha muhandislik amaliyotlari
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Tizim bardoshliligini tekshirish uchun ataylab xatoliklarni kiritish
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Property testing metodikasi: misol-testlash va formal verifikatsiya orasidagi yondashuv

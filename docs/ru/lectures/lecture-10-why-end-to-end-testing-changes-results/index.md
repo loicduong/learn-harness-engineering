@@ -144,7 +144,7 @@ FIX: Перенесите файловые операции в src/preload/file-
 
 ## Дополнительное чтение
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — Классический источник модели тест-пирамиды
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — Классический источник модели тест-пирамиды
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — Инженерные практики для автоматизированного выполнения архитектурных ограничений
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — Проактивное внедрение отказов для проверки устойчивости системы
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — Методология property-тестирования, расположенная между примерным тестированием и формальной верификацией

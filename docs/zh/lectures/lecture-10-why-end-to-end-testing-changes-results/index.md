@@ -142,7 +142,7 @@ FIX: Move file operations to src/preload/file-ops.ts and call via window.api.rea
 
 ## 延伸阅读
 
-- [How Google Tests Software - Whittaker et al.](https://www.goodreads.com/book/show/13563030-how-google-tests-software) — 测试金字塔模型的经典来源
+- [How Google Tests Software - Whittaker et al.](https://books.google.dk/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y) — 测试金字塔模型的经典来源
 - [Harness Engineering - OpenAI](https://openai.com/index/harness-engineering/) — 架构约束自动化执行的工程实践
 - [Chaos Engineering - Netflix (Basiri et al.)](https://ieeexplore.ieee.org/document/7466237) — 主动注入故障验证系统弹性
 - [QuickCheck - Claessen & Hughes](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf) — 属性测试方法，介于示例测试和形式化验证之间
