@@ -102,7 +102,9 @@ const viLectureItems = [
   { text: "Tại sao Agent tuyên bố thành công quá sớm", link: "/vi/lectures/lecture-09-why-agents-declare-victory-too-early/" },
   { text: "Tại sao kiểm thử End-to-End thay đổi kết quả", link: "/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Tại sao tính quan sát thuộc về bên trong Harness", link: "/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
-  { text: "Tại sao mỗi phiên làm việc phải để lại trạng thái sạch", link: "/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" }
+  { text: "Tại sao mỗi phiên làm việc phải để lại trạng thái sạch", link: "/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "Từ Nhắc lệnh Thủ công đến Vòng lặp Tự chủ", link: "/vi/lectures/lecture-13-loop-engineering/" },
 ];
 
 const viProjectItems = [
@@ -113,6 +115,8 @@ const viProjectItems = [
   { text: "Phản hồi Runtime và Kiểm soát Phạm vi", link: "/vi/projects/project-04-incremental-indexing/" },
   { text: "Tự xác minh và Phân tách Vai trò", link: "/vi/projects/project-05-grounded-qa-verification/" },
   { text: "Harness Hoàn chỉnh", link: "/vi/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "Xây dựng Vòng lặp Tự động Đầu tiên", link: "/vi/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const viResourceItems = [
@@ -140,6 +144,8 @@ const ruLectureItems = [
   { text: "Только сквозной прогон — настоящая проверка", link: "/ru/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Наблюдаемость — часть harness", link: "/ru/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Каждая сессия должна оставлять чистое состояние", link: "/ru/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "От ручных запросов к автономным циклам", link: "/ru/lectures/lecture-13-loop-engineering/" },
 ];
 
 const ruProjectItems = [
@@ -150,6 +156,8 @@ const ruProjectItems = [
   { text: "Обратная связь и контроль скоупа", link: "/ru/projects/project-04-incremental-indexing/" },
   { text: "Самопроверка и обоснованные ответы", link: "/ru/projects/project-05-grounded-qa-verification/" },
   { text: "Полный harness (капстоун)", link: "/ru/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "Постройте свой первый автоматизированный цикл", link: "/ru/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const ruResourceItems = [
@@ -177,6 +185,8 @@ const uzLectureItems = [
   { text: "End-to-end testlar nega natijani oʻzgartiradi", link: "/uz/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Kuzatuvchanlik nega harness ichida boʻlishi kerak", link: "/uz/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Har bir sessiya nega toza holat qoldirishi kerak", link: "/uz/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "Qoʻlda prompt yozishdan avtonom loop'largacha", link: "/uz/lectures/lecture-13-loop-engineering/" },
 ];
 
 const uzProjectItems = [
@@ -187,6 +197,8 @@ const uzProjectItems = [
   { text: "Runtime fikr-mulohaza va skoup nazorati", link: "/uz/projects/project-04-incremental-indexing/" },
   { text: "Oʻz-oʻzini tekshirish va rollarni ajratish", link: "/uz/projects/project-05-grounded-qa-verification/" },
   { text: "Toʻliq harness (yakuniy loyiha)", link: "/uz/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "Birinchi avtomatlashtirilgan loop'ingizni qurish", link: "/uz/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const uzResourceItems = [
@@ -214,6 +226,8 @@ const koLectureItems = [
   { text: "엔드투엔드 테스트가 결과를 바꾸는 이유", link: "/ko/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "관측 가능성이 하네스 안에 있어야 하는 이유", link: "/ko/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "모든 세션이 클린 상태로 끝나야 하는 이유", link: "/ko/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "수동 프롬프팅에서 자율 루프로", link: "/ko/lectures/lecture-13-loop-engineering/" },
 ];
 
 const koProjectItems = [
@@ -224,6 +238,8 @@ const koProjectItems = [
   { text: "런타임 피드백과 범위 제어", link: "/ko/projects/project-04-incremental-indexing/" },
   { text: "자기 검증과 역할 분리", link: "/ko/projects/project-05-grounded-qa-verification/" },
   { text: "완성형 하네스(캡스톤)", link: "/ko/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "첫 번째 자동 루프 구축하기", link: "/ko/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const koResourceItems = [
@@ -251,6 +267,8 @@ const jaLectureItems = [
   { text: "End-to-End テストだけが本当の検証である", link: "/ja/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "エージェントのランタイムを観測可能にする", link: "/ja/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "すべてのセッションをきれいな引き継ぎで終える", link: "/ja/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "手動プロンプトから自律ループへ", link: "/ja/lectures/lecture-13-loop-engineering/" },
 ];
 
 const jaProjectItems = [
@@ -261,6 +279,8 @@ const jaProjectItems = [
   { text: "ランタイムフィードバックでエージェントの挙動を修正する", link: "/ja/projects/project-04-incremental-indexing/" },
   { text: "エージェントに自分の作業を検証させる", link: "/ja/projects/project-05-grounded-qa-verification/" },
   { text: "完全なエージェント harness を構築する（総合課題）", link: "/ja/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "初めての自動ループを構築する", link: "/ja/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const jaResourceItems = [
@@ -288,6 +308,8 @@ const esLectureItems = [
   { text: "Solo las pruebas end-to-end son verificación real", link: "/es/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Haz observable el runtime del agente", link: "/es/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Deja un handoff limpio al final de cada sesión", link: "/es/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "Del Prompting Manual a los Loops Autónomos", link: "/es/lectures/lecture-13-loop-engineering/" },
 ];
 
 const esProjectItems = [
@@ -298,6 +320,8 @@ const esProjectItems = [
   { text: "Usa feedback de runtime para corregir el comportamiento", link: "/es/projects/project-04-incremental-indexing/" },
   { text: "Haz que el agente verifique su propio trabajo", link: "/es/projects/project-05-grounded-qa-verification/" },
   { text: "Construye un harness completo (capstone)", link: "/es/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "Construye Tu Primer Loop Automatizado", link: "/es/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const esResourceItems = [
@@ -325,6 +349,8 @@ const frLectureItems = [
   { text: "Seul le test end-to-end est une vraie vérification", link: "/fr/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Rendre le runtime de l'agent observable", link: "/fr/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Laisser un handoff propre à la fin de chaque session", link: "/fr/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "Du prompting manuel aux boucles autonomes", link: "/fr/lectures/lecture-13-loop-engineering/" },
 ];
 
 const frProjectItems = [
@@ -335,6 +361,8 @@ const frProjectItems = [
   { text: "Utiliser le feedback runtime pour corriger le comportement", link: "/fr/projects/project-04-incremental-indexing/" },
   { text: "Faire vérifier son propre travail par l'agent", link: "/fr/projects/project-05-grounded-qa-verification/" },
   { text: "Construire un harness complet (capstone)", link: "/fr/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "Construisez votre première boucle automatisée", link: "/fr/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const frResourceItems = [
@@ -362,6 +390,8 @@ const deLectureItems = [
   { text: "Nur End-to-End-Tests sind echte Verifikation", link: "/de/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Die Runtime des Agenten beobachtbar machen", link: "/de/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Sauberes Handoff am Ende jeder Session", link: "/de/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "Von manuellen Prompts zu autonomen Loops", link: "/de/lectures/lecture-13-loop-engineering/" },
 ];
 
 const deProjectItems = [
@@ -372,6 +402,8 @@ const deProjectItems = [
   { text: "Runtime-Feedback nutzen, um Agentenverhalten zu korrigieren", link: "/de/projects/project-04-incremental-indexing/" },
   { text: "Den Agenten seine eigene Arbeit verifizieren lassen", link: "/de/projects/project-05-grounded-qa-verification/" },
   { text: "Einen vollständigen Agenten-harness bauen (Capstone)", link: "/de/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "Baue deinen ersten automatisierten Loop", link: "/de/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const deResourceItems = [
@@ -399,6 +431,8 @@ const arLectureItems = [
   { text: "الاختبار end-to-end هو التحقق الحقيقي", link: "/ar/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "اجعل runtime الوكيل قابلًا للملاحظة", link: "/ar/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "اترك handoff نظيفًا في نهاية كل جلسة", link: "/ar/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "من المطالبة اليدوية إلى الحلقات المستقلة", link: "/ar/lectures/lecture-13-loop-engineering/" },
 ];
 
 const arProjectItems = [
@@ -409,6 +443,8 @@ const arProjectItems = [
   { text: "استخدم feedback في runtime لتصحيح سلوك الوكيل", link: "/ar/projects/project-04-incremental-indexing/" },
   { text: "اجعل الوكيل يتحقق من عمله", link: "/ar/projects/project-05-grounded-qa-verification/" },
   { text: "ابنِ harness كاملًا للوكيل (Capstone)", link: "/ar/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "ابني أول حلقة آلية", link: "/ar/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const arResourceItems = [
@@ -436,6 +472,8 @@ const trLectureItems = [
   { text: "Uçtan Uca Test Sonuçları Neden Değiştirir", link: "/tr/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Gözlemlenebilirlik Neden Harness’ın İçinde Olmalı", link: "/tr/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Her Oturum Neden Temiz Bir Durumla Bitmeli", link: "/tr/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "Manuel Prompting'den Otonom Loop'lara", link: "/tr/lectures/lecture-13-loop-engineering/" },
 ];
 
 const trProjectItems = [
@@ -446,6 +484,8 @@ const trProjectItems = [
   { text: "Çalışma Zamanı Geri Bildirimi ve Kapsam Kontrolü", link: "/tr/projects/project-04-incremental-indexing/" },
   { text: "Öz-Doğrulama ve Rol Ayrımı", link: "/tr/projects/project-05-grounded-qa-verification/" },
   { text: "Eksiksiz Harness (Bitirme Projesi)", link: "/tr/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "İlk Otomatik Loop'unuzu Oluşturun", link: "/tr/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const trResourceItems = [
@@ -473,6 +513,8 @@ const zhTWLectureItems = [
   { text: "跑通完整流程才算真正驗證", link: "/zh-TW/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "讓 agent 的運行過程可觀測", link: "/zh-TW/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "每次會話結束前都做好交接", link: "/zh-TW/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "從手動驅動到自動循環", link: "/zh-TW/lectures/lecture-13-loop-engineering/" },
 ];
 
 const zhTWProjectItems = [
@@ -483,6 +525,8 @@ const zhTWProjectItems = [
   { text: "用運行反饋修正 agent 的行為", link: "/zh-TW/projects/project-04-incremental-indexing/" },
   { text: "讓 agent 自己檢查自己做的對不對", link: "/zh-TW/projects/project-05-grounded-qa-verification/" },
   { text: "搭建一套完整的 agent 工作環境", link: "/zh-TW/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "搭建你的第一個自動循環", link: "/zh-TW/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const zhTWResourceItems = [
@@ -510,6 +554,7 @@ const ptBRLectureItems = [
   { text: "Por que testes end-to-end mudam os resultados", link: "/pt-BR/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Por que observabilidade pertence ao Harness", link: "/pt-BR/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Por que toda sessão deve deixar um estado limpo", link: "/pt-BR/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+  { text: "Do Prompting Manual aos Loops Autônomos", link: "/pt-BR/lectures/lecture-13-loop-engineering/" },
 ];
 
 const ptBRProjectItems = [
@@ -520,6 +565,7 @@ const ptBRProjectItems = [
   { text: "Feedback em Runtime e Controle de Escopo", link: "/pt-BR/projects/project-04-incremental-indexing/" },
   { text: "Autoverificação e Separação de Papéis", link: "/pt-BR/projects/project-05-grounded-qa-verification/" },
   { text: "Harness Completo (Projeto Final)", link: "/pt-BR/projects/project-06-runtime-observability-and-debugging/" },
+  { text: "Construa Seu Primeiro Loop Automatizado", link: "/pt-BR/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const ptBRResourceItems = [
@@ -547,6 +593,8 @@ const ukLectureItems = [
   { text: "Чому наскрізне тестування змінює результати", link: "/uk/lectures/lecture-10-why-end-to-end-testing-changes-results/" },
   { text: "Чому спостережуваність має бути всередині harness", link: "/uk/lectures/lecture-11-why-observability-belongs-inside-the-harness/" },
   { text: "Чому кожна сесія має залишати чистий стан", link: "/uk/lectures/lecture-12-why-every-session-must-leave-a-clean-state/" },
+
+  { text: "Від ручного введення промптів до автономних циклів", link: "/uk/lectures/lecture-13-loop-engineering/" },
 ];
 
 const ukProjectItems = [
@@ -557,6 +605,8 @@ const ukProjectItems = [
   { text: "Зворотний зв'язок у runtime і контроль обсягу", link: "/uk/projects/project-04-incremental-indexing/" },
   { text: "Самоверифікація та розподіл ролей", link: "/uk/projects/project-05-grounded-qa-verification/" },
   { text: "Повний harness (підсумковий проєкт)", link: "/uk/projects/project-06-runtime-observability-and-debugging/" },
+
+  { text: "Побудова вашого першого автоматизованого циклу", link: "/uk/projects/project-07-loop-engineering-first-loop/" },
 ];
 
 const ukResourceItems = [
