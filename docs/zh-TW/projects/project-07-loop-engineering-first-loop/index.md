@@ -144,4 +144,4 @@
 - [Lecture 13 — 從手動驅動到自動循環](../../lectures/lecture-13-loop-engineering/index.md)
 - [Lecture 12 — 為什麼每次會話都必須留下乾淨狀態](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md)（loop 的每一輪都需要 clean state）
 - [Lecture 11 — 為什麼可觀測性屬於 harness 的一部分](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md)（你需要看到 loop 內部在發生什麼）
-- [Lecture 05 — 為什麼狀態檔案是跨會話連續性的核心](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md)（loop 狀態檔案是 state file 的延伸）
+- [Lecture 05 — 為什麼狀態檔案是跨會話連續性的核心](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md)（loop 狀態檔案是 state file 的延伸）

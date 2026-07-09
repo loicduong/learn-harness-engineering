@@ -142,4 +142,4 @@
 - [Lecture 13 — 从手动驱动到自动循环](../../lectures/lecture-13-loop-engineering/index.md)
 - [Lecture 12 — 为什么每次会话都必须留下干净状态](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md)（loop 的每一轮都需要 clean state）
 - [Lecture 11 — 为什么可观测性属于 harness 的一部分](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md)（你需要看到 loop 内部在发生什么）
-- [Lecture 05 — 为什么状态文件是跨会话连续性的核心](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md)（loop 状态文件是 state file 的延伸）
+- [Lecture 05 — 为什么状态文件是跨会话连续性的核心](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md)（loop 状态文件是 state file 的延伸）

@@ -144,4 +144,4 @@ Chuyển sang nhánh `p07-maker-checker`.
 - [Bài 13 — Tại sao bạn cần ngừng nhắc lệnh Agent của mình](../../lectures/lecture-13-loop-engineering/index.md)
 - [Bài 12 — Tại sao mỗi phiên phải để lại trạng thái sạch](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (mỗi vòng của một vòng lặp cần trạng thái sạch)
 - [Bài 11 — Tại sao tính quan sát được thuộc về bên trong Harness](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (bạn cần thấy những gì đang xảy ra bên trong vòng lặp)
-- [Bài 05 — Tại sao các file trạng thái là xương sống của tính liên tục](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (các file trạng thái vòng lặp là một phần mở rộng của các file trạng thái)
+- [Bài 05 — Tại sao các file trạng thái là xương sống của tính liên tục](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (các file trạng thái vòng lặp là một phần mở rộng của các file trạng thái)

@@ -36,7 +36,7 @@ Aprenda Engenharia de Harness é um curso dedicado à engenharia de agentes de c
 - [Anthropic: Design de Harness para desenvolvimento de aplicativos de longa duração](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering)
 
-> **Início rápido?** A skill [`skills/harness-creator/`](./skills/harness-creator/) pode ajudá-lo a estruturar um harness de nível de produção (AGENTS.md, listas de recursos, init.sh, fluxos de verificação) para seu próprio projeto em minutos.
+> **Início rápido?** A skill [`skills/harness-creator/`](../../skills/harness-creator/) pode ajudá-lo a estruturar um harness de nível de produção (AGENTS.md, listas de recursos, init.sh, fluxos de verificação) para seu próprio projeto em minutos.
 
 ---
 
@@ -77,7 +77,7 @@ O repositório agora inclui um pipeline de construção de PDF para o conteúdo 
 - Execute `npm run pdf:build` para gerar localmente os livros do curso em PDF configurados atualmente.
 - Os arquivos de saída são gravados em `artifacts/pdfs/`.
 - Execute `npm run screenshots:readme` se desejar atualizar as imagens de prévia do README.
-- O fluxo de trabalho do GitHub Actions [`release-course-pdfs.yml`](./.github/workflows/release-course-pdfs.yml) pode construir os PDFs e publicá-los no GitHub Releases.
+- O fluxo de trabalho do GitHub Actions [`release-course-pdfs.yml`](../../.github/workflows/release-course-pdfs.yml) pode construir os PDFs e publicá-los no GitHub Releases.
 
 ---
 

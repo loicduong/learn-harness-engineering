@@ -144,4 +144,4 @@
 - [Лекция 13 — Why You Need to Stop Prompting Your Agent](../../lectures/lecture-13-loop-engineering/index.md)
 - [Лекция 12 — Why Every Session Must Leave a Clean State](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (каждый раунд цикла нуждается в чистом состоянии)
 - [Лекция 11 — Why Observability Belongs Inside the Harness](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (вам нужно видеть, что происходит внутри цикла)
-- [Лекция 05 — Why State Files Are the Backbone of Continuity](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (файлы состояния цикла — это расширение файлов состояния)
+- [Лекция 05 — Why State Files Are the Backbone of Continuity](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (файлы состояния цикла — это расширение файлов состояния)

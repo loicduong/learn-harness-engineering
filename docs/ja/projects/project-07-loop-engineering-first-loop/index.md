@@ -144,4 +144,4 @@
 - [第13回 — なぜエージェントにプロンプトを与えるのをやめるべきか](../../lectures/lecture-13-loop-engineering/index.md)
 - [第12回 — なぜすべてのセッションはクリーンな状態を残さなければならないか](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md)（ループの各ラウンドにはクリーンな状態が必要）
 - [第11回 — なぜ観測可能性はハーネスの内部にあるべきか](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md)（ループの内部で何が起こっているかを見る必要がある）
-- [第05回 — なぜ状態ファイルは継続性のバックボーンなのか](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md)（ループ状態ファイルは状態ファイルの拡張）
+- [第05回 — なぜ状態ファイルは継続性のバックボーンなのか](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md)（ループ状態ファイルは状態ファイルの拡張）

@@ -144,4 +144,4 @@ Bu uchta eksperimentning eng muhimi. Siz **sizning ishtirokingizni talab qilmayd
 - [13-maʼruza — Nega agentingizga prompt yozishni bas qilishingiz kerak](../../lectures/lecture-13-loop-engineering/index.md)
 - [12-maʼruza — Nega har bir sessiya toza holat qoldirishishi kerak](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (loop ning har bir raundi toza holatni talab qiladi)
 - [11-maʼruza — Nega kuzatuvchanlik harness ichida boʻlishi kerak](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (loop ichida nima boʻlayotganini koʻrish kerak)
-- [5-maʼruza — Nega holat fayllari uzluksizlikning umurtqasi hisoblanadi](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (loop holat fayllari holat fayllarining kengaytmasidir)
+- [5-maʼruza — Nega holat fayllari uzluksizlikning umurtqasi hisoblanadi](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (loop holat fayllari holat fayllarining kengaytmasidir)

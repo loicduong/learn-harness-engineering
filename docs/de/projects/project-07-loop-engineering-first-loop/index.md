@@ -144,4 +144,4 @@ Das ist das wichtigste der drei Experimente. Du baust **einen vollständigen Loo
 - [Lektion 13 — Warum du aufhören solltest, deinen Agenten zu prompten](../../lectures/lecture-13-loop-engineering/index.md)
 - [Lektion 12 — Warum jede Session einen sauberen Zustand hinterlassen muss](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (jede Runde eines Loops braucht sauberen State)
 - [Lektion 11 — Warum Beobachtbarkeit ins Harness gehört](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (du musst sehen, was im Inneren des Loops passiert)
-- [Lektion 05 — Warum State-Dateien das Rückgrat der Kontinuität sind](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (Loop-State-Dateien sind eine Erweiterung von State-Dateien)
+- [Lektion 05 — Warum State-Dateien das Rückgrat der Kontinuität sind](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (Loop-State-Dateien sind eine Erweiterung von State-Dateien)
