@@ -144,4 +144,4 @@
 - [Лекція 13 — Чому вам потрібно припинити писати промпти для свого агента](../../lectures/lecture-13-loop-engineering/index.md)
 - [Лекція 12 — Чому кожна сесія має залишати чистий стан](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (кожен раунд циклу потребує чистого стану)
 - [Лекція 11 — Чому спостережуваність належить всередині hарнесу](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (вам потрібно бачити, що відбувається всередині циклу)
-- [Лекція 05 — Чому файли стану є хребтом безперервності](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (файли стану циклу — це розширення файлів стану)
+- [Лекція 05 — Чому файли стану є хребтом безперервності](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (файли стану циклу — це розширення файлів стану)

@@ -144,4 +144,4 @@
 - [المحاضرة 13 — لماذا تحتاج إلى التوقف عن مطالبة وكيلك](../../lectures/lecture-13-loop-engineering/index.md)
 - [المحاضرة 12 — لماذا يجب أن تترك كل جلسة حالة نظيفة](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (كل جولة من الحلقة تحتاج إلى حالة نظيفة)
 - [المحاضرة 11 — لماذا تنتمي إمكانية الملاحظة داخل الـ Harness](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (تحتاج إلى رؤية ما يحدث داخل الحلقة)
-- [المحاضرة 05 — لماذا تعد ملفات الحالة هي عمود الفقار للاستمرارية](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (ملفات حالة الحلقة هي امتداد لملفات الحالة)
+- [المحاضرة 05 — لماذا تعد ملفات الحالة هي عمود الفقار للاستمرارية](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (ملفات حالة الحلقة هي امتداد لملفات الحالة)

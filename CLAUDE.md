@@ -16,7 +16,7 @@ npm run docs:build      # Production build
 npm run docs:preview    # Preview built site
 
 # Run lecture code examples
-npx tsx docs/lectures/<lecture-dir>/code/<file>.ts
+npx tsx docs/en/lectures/<lecture-dir>/code/<file>.ts
 
 # Project Electron apps (from each project directory)
 cd projects/project-NN/starter  # or solution/
@@ -30,16 +30,17 @@ npm run test:watch       # Vitest watch mode
 ## Repository Structure
 
 - `docs/` — VitePress documentation site (lectures, projects, resources)
-- `docs/.vitepress/config.mts` — Nav/sidebar config for all 13 locales (en, zh, zh-TW, ja, ko, es, fr, ru, de, ar, vi, uz, tr)
-- `docs/lectures/` — 12 lectures, each with `index.md` + `code/` examples
-- `docs/projects/` — 6 project descriptions
+- `docs/.vitepress/config.mts` — Nav/sidebar config for all 15 locales (en, zh, zh-TW, ja, ko, es, fr, ru, de, ar, vi, uz, tr, uk, pt-BR)
+- `docs/<lang>/lectures/` — 13 lectures, each with `index.md` + `code/` examples
+- `docs/<lang>/projects/` — 7 project descriptions
 - `docs/<lang>/resources/` — localized templates, references, OpenAI advanced pack
+- `docs-readme/` — localized README translations (one directory per locale)
 - `projects/shared/` — Shared Electron + TypeScript + React foundation
-- `projects/project-NN/` — Per-project `starter/` and `solution/` directories
+- `projects/project-NN/` — Per-project `starter/` and `solution/` directories (project-01 through project-06; project-07 is docs-only so far)
 
 ## Architecture
 
-The course revolves around an Electron knowledge-base desktop app that evolves across 6 projects:
+The course revolves around an Electron knowledge-base desktop app that evolves across the projects:
 - **Main process** (`src/main/`): Window management, IPC handlers, service initialization
 - **Preload** (`src/preload/`): contextBridge exposing typed API to renderer
 - **Renderer** (`src/renderer/`): React UI with document list, Q&A panel, status bar

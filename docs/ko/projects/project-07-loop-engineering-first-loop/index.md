@@ -144,4 +144,4 @@
 - [13강 — 왜 에이전트에게 프롬프트하는 것을 그만둬야 하는가](../../lectures/lecture-13-loop-engineering/index.md)
 - [12강 — 왜 모든 세션은 깨끗한 상태를 남겨야 하는가](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (루프의 모든 라운드에는 깨끗한 상태가 필요합니다)
 - [11강 — 왜 관찰 가능성은 하네스 내부에 속하는가](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (루프 내부에서 무슨 일이 일어나는지 볼 수 있어야 합니다)
-- [5강 — 왜 상태 파일은 연속성의 중심인가](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (루프 상태 파일은 상태 파일의 확장입니다)
+- [5강 — 왜 상태 파일은 연속성의 중심인가](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (루프 상태 파일은 상태 파일의 확장입니다)

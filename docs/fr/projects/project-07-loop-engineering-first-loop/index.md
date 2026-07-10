@@ -144,4 +144,4 @@ C'est la plus importante des trois expériences. Vous allez construire **une bou
 - [Cours 13 — Pourquoi vous devez arrêter de faire du prompting à votre agent](../../lectures/lecture-13-loop-engineering/index.md)
 - [Cours 12 — Pourquoi chaque session doit laisser un état propre](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (chaque tour d'une boucle a besoin d'un état propre)
 - [Cours 11 — Pourquoi l'observabilité appartient à l'intérieur du harness](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (vous avez besoin de voir ce qui se passe à l'intérieur de la boucle)
-- [Cours 05 — Pourquoi les fichiers d'état sont l'épine dorsale de la continuité](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (les fichiers d'état de boucle sont une extension des fichiers d'état)
+- [Cours 05 — Pourquoi les fichiers d'état sont l'épine dorsale de la continuité](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (les fichiers d'état de boucle sont une extension des fichiers d'état)

@@ -144,4 +144,4 @@ Bu, üç deneyin en önemlisidir. **Orada olmanıza gerek kalmayan tam bir loop*
 - [Ders 13 — Ajanınızı prompt etmeyi neden bırakmanız gerekir](../../lectures/lecture-13-loop-engineering/index.md)
 - [Ders 12 — Her oturum neden temiz bir durumla bitmeli](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (bir loop'un her turu temiz durum gerekir)
 - [Ders 11 — Gözlemlenebilirlik neden harness'ın içinde olmalı](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (loop'un içinde ne olduğunu görmeniz gerekir)
-- [Ders 05 — Durum dosyaları neden sürekliliğin omurgasıdır](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (loop durum dosyaları durum dosyalarının bir uzantısıdır)
+- [Ders 05 — Durum dosyaları neden sürekliliğin omurgasıdır](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (loop durum dosyaları durum dosyalarının bir uzantısıdır)

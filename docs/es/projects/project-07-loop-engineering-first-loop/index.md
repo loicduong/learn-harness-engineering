@@ -144,4 +144,4 @@ Este es el más importante de los tres experimentos. Construirás un **loop comp
 - [Lección 13 — Por Qué Necesitas Dejar de Hacerle Prompting a Tu Agente](../../lectures/lecture-13-loop-engineering/index.md)
 - [Lección 12 — Por Qué Cada Sesión Debe Dejar un Estado Limpio](../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) (cada ronda de un loop necesita estado limpio)
 - [Lección 11 — Por Qué la Observabilidad Pertenece Dentro del Harness](../../lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) (necesitas ver qué está pasando dentro del loop)
-- [Lección 05 — Por Qué los Archivos de Estado Son la Columna Vertebral de la Continuidad](../../lectures/lecture-05-why-state-files-are-the-backbone-of-continuity/index.md) (los archivos de estado de loop son una extensión de los archivos de estado)
+- [Lección 05 — Por Qué los Archivos de Estado Son la Columna Vertebral de la Continuidad](../../lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) (los archivos de estado de loop son una extensión de los archivos de estado)
